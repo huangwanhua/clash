@@ -15,17 +15,13 @@ proxies:
   - {name: 🇺🇲 美国(欢迎订阅Youtube破解资源君) 6, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2, server: 212.102.35.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: 00301315, server: 173.82.240.245, port: 443, type: vmess, uuid: 9a297bb1-06e3-4e6f-97fa-3d3202d46596, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /84c3f/, ws-headers: {Host: cc.hciahciphcie.club}}
-  - {name: 🇸🇬 SG_3418, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇲 美国 17, server: rntwo.laoban666.xyz, port: 443, type: vmess, uuid: 114f5786-a8a0-446a-a32f-446893480560, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /27353486f3a1d4f/, ws-headers: {Host: rntwo.laoban666.xyz}}
   - {name: 🇩🇪 德国 6, server: ss.de.sshmax.net, port: 21474, type: ss, cipher: chacha20-ietf-poly1305, password: cWv8FcJk0VpS}
   - {name: 🇸🇬 SG_3422, server: 54.169.101.136, port: 48623, type: vmess, uuid: 404b831b-ff94-4793-b433-34c5b48dc73e, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇲 美国 18, server: 107.175.44.154, port: 443, type: vmess, uuid: 114f5786-a8a0-446a-a32f-446893480560, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /27353486f3a1d4f/, ws-headers: {Host: rntwo.laoban666.xyz}}
   - {name: 🇭🇰 HK_2123, server: 193.110.203.45, port: 443, type: vmess, uuid: fe93a062-d13f-3958-9ebc-0c06cd32dfb0, alterId: 3, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: 193.110.203.45}}
   - {name: 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830, server: 15.197.178.75, port: 25000, type: vmess, uuid: 49955b62-27c7-3734-bc6b-1c60c0ab0059, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /xgr, ws-headers: {Host: 15.197.178.75}}
   - {name: 🇺🇸, server: 207.244.67.149, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: 🇳🇱 荷兰 ☆☆  02 ☆AWS☆  1.2x, server: 154.84.1.55, port: 443, type: vmess, uuid: 9636de2d-8772-4d21-b1c1-a0e065905246, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.04887294.xyz}}
   - {name: 🇨🇳 CN_1015, server: 183.236.57.18, port: 10004, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
-  - {name: 🇺🇲 Relay_🇺🇸US-🇺🇸US_1567, server: 104.16.249.130, port: 443, type: vmess, uuid: e6397eda-dd27-4832-a693-b3fb156ec0f3, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /233blog, ws-headers: {Host: rn.man-one.club}}
   - {name: 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1013, server: 183.236.57.18, port: 10002, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
   - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016, server: 183.236.57.18, port: 10001, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
   - {name: 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_1006, server: 183.236.57.18, port: 10003, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
@@ -33,11 +29,40 @@ proxies:
   - {name: 🇨🇳 更多：http://r6f.cn/bra2j, server: 1.1.1.1, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: 🇨🇳 更多：http://r6f.cn/bra2j 2, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
   - {name: 🇨🇳 更多：http://r6f.cn/bra2j 3, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
-  - {name: 🇨🇳 更多：http://r6f.cn/bra2j 4, server: 154.84.1.217, port: 443, type: vmess, uuid: d03a8fbf-7d51-46c3-b02d-17ff0b32e4c5, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53103739.xyz}}
-  - {name: 🇨🇳 更多：http://r6f.cn/bra2j 5, server: 154.84.1.106, port: 443, type: vmess, uuid: a8089885-9602-4052-b1a3-1c9e02df635d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.63681459.xyz}}
+  - {name: 🇨🇳 更多：http://r6f.cn/bra2j 4, server: 154.84.1.106, port: 443, type: vmess, uuid: a8089885-9602-4052-b1a3-1c9e02df635d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.63681459.xyz}}
   - {name: 🇺🇲 美国Cloudinnovation数据中心 6, server: 154.84.1.106, port: 443, type: vmess, uuid: a8089885-9602-4052-b1a3-1c9e02df635d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.63681459.xyz}}
   - {name: 🇺🇲 美国Cloudinnovation数据中心 9, server: 154.84.1.217, port: 443, type: vmess, uuid: d03a8fbf-7d51-46c3-b02d-17ff0b32e4c5, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53103739.xyz}}
-  - {name: 🇺🇲 美国Cloudinnovation数据中心 11, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
+  - {name: 🇺🇲 美国, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇲 美国 2, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇳🇱 荷兰, server: 154.84.1.217, port: 443, type: vmess, uuid: d03a8fbf-7d51-46c3-b02d-17ff0b32e4c5, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53103739.xyz}}
+  - {name: 🇺🇲 美国 3, server: vip9-3.lounge.workers.dev, port: 443, type: vmess, uuid: f5121518-a614-4a16-b1f1-8dbc0c502854, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: vip9-3.lounge.workers.dev}}
+  - {name: 🇺🇲 美国 4, server: 84.17.35.118, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇲 美国 5, server: 84.17.35.118, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇺🇲 美国 6, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 7, server: 23.82.11.49, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇲 美国 8, server: 84.17.35.118, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇲 美国 9, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇲 美国 10, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
+  - {name: 🇺🇲 美国 11, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇨🇦 加拿大, server: 45.62.233.34, port: 2096, type: vmess, uuid: b6b44b86-c1e1-11eb-85a3-0050569b8c57, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /IfRHiCow/, ws-headers: {Host: a2.ssrsub.one}}
+  - {name: 🇨🇦 加拿大 2, server: ss1.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇺🇲 美国 12, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇲 美国 13, server: 84.17.35.118, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇨🇦 加拿大 3, server: ss4.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇺🇲 美国 14, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇲 美国 15, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 16, server: 84.17.35.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国 17, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇲 美国 18, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 美国 19, server: 198.147.22.87, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
+  - {name: 🇬🇧 英国, server: 198.147.22.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国 20, server: 84.17.35.118, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇲 美国 21, server: 207.244.67.149, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 22, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇲 美国 23, server: 84.17.35.118, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 24, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 25, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
+  - {name: 🇬🇧 英国 2, server: ss.uk.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: JSvsHhHYIuVG}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -64,17 +89,13 @@ proxy-groups:
       - 🇺🇲 美国(欢迎订阅Youtube破解资源君) 6
       - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
       - 00301315
-      - 🇸🇬 SG_3418
-      - 🇺🇲 美国 17
       - 🇩🇪 德国 6
       - 🇸🇬 SG_3422
-      - 🇺🇲 美国 18
       - 🇭🇰 HK_2123
       - 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830
       - 🇺🇸
       - 🇳🇱 荷兰 ☆☆  02 ☆AWS☆  1.2x
       - 🇨🇳 CN_1015
-      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_1567
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1013
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016
       - 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_1006
@@ -83,10 +104,39 @@ proxy-groups:
       - 🇨🇳 更多：http://r6f.cn/bra2j 2
       - 🇨🇳 更多：http://r6f.cn/bra2j 3
       - 🇨🇳 更多：http://r6f.cn/bra2j 4
-      - 🇨🇳 更多：http://r6f.cn/bra2j 5
       - 🇺🇲 美国Cloudinnovation数据中心 6
       - 🇺🇲 美国Cloudinnovation数据中心 9
-      - 🇺🇲 美国Cloudinnovation数据中心 11
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰
+      - 🇺🇲 美国 3
+      - 🇺🇲 美国 4
+      - 🇺🇲 美国 5
+      - 🇺🇲 美国 6
+      - 🇺🇲 美国 7
+      - 🇺🇲 美国 8
+      - 🇺🇲 美国 9
+      - 🇺🇲 美国 10
+      - 🇺🇲 美国 11
+      - 🇨🇦 加拿大
+      - 🇨🇦 加拿大 2
+      - 🇺🇲 美国 12
+      - 🇺🇲 美国 13
+      - 🇨🇦 加拿大 3
+      - 🇺🇲 美国 14
+      - 🇺🇲 美国 15
+      - 🇺🇲 美国 16
+      - 🇺🇲 美国 17
+      - 🇺🇲 美国 18
+      - 🇺🇲 美国 19
+      - 🇬🇧 英国
+      - 🇺🇲 美国 20
+      - 🇺🇲 美国 21
+      - 🇺🇲 美国 22
+      - 🇺🇲 美国 23
+      - 🇺🇲 美国 24
+      - 🇺🇲 美国 25
+      - 🇬🇧 英国 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -103,17 +153,13 @@ proxy-groups:
       - 🇺🇲 美国(欢迎订阅Youtube破解资源君) 6
       - 🇳🇱 荷兰(欢迎订阅Youtube破解资源君) 2
       - 00301315
-      - 🇸🇬 SG_3418
-      - 🇺🇲 美国 17
       - 🇩🇪 德国 6
       - 🇸🇬 SG_3422
-      - 🇺🇲 美国 18
       - 🇭🇰 HK_2123
       - 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830
       - 🇺🇸
       - 🇳🇱 荷兰 ☆☆  02 ☆AWS☆  1.2x
       - 🇨🇳 CN_1015
-      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_1567
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1013
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016
       - 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_1006
@@ -122,10 +168,39 @@ proxy-groups:
       - 🇨🇳 更多：http://r6f.cn/bra2j 2
       - 🇨🇳 更多：http://r6f.cn/bra2j 3
       - 🇨🇳 更多：http://r6f.cn/bra2j 4
-      - 🇨🇳 更多：http://r6f.cn/bra2j 5
       - 🇺🇲 美国Cloudinnovation数据中心 6
       - 🇺🇲 美国Cloudinnovation数据中心 9
-      - 🇺🇲 美国Cloudinnovation数据中心 11
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
+      - 🇳🇱 荷兰
+      - 🇺🇲 美国 3
+      - 🇺🇲 美国 4
+      - 🇺🇲 美国 5
+      - 🇺🇲 美国 6
+      - 🇺🇲 美国 7
+      - 🇺🇲 美国 8
+      - 🇺🇲 美国 9
+      - 🇺🇲 美国 10
+      - 🇺🇲 美国 11
+      - 🇨🇦 加拿大
+      - 🇨🇦 加拿大 2
+      - 🇺🇲 美国 12
+      - 🇺🇲 美国 13
+      - 🇨🇦 加拿大 3
+      - 🇺🇲 美国 14
+      - 🇺🇲 美国 15
+      - 🇺🇲 美国 16
+      - 🇺🇲 美国 17
+      - 🇺🇲 美国 18
+      - 🇺🇲 美国 19
+      - 🇬🇧 英国
+      - 🇺🇲 美国 20
+      - 🇺🇲 美国 21
+      - 🇺🇲 美国 22
+      - 🇺🇲 美国 23
+      - 🇺🇲 美国 24
+      - 🇺🇲 美国 25
+      - 🇬🇧 英国 2
   - name: 📲 电报消息
     type: select
     proxies:
@@ -323,13 +398,34 @@ proxy-groups:
       - 🇺🇲 美国(欢迎订阅Youtube破解资源君) 4
       - 🇺🇲 美国(欢迎订阅Youtube破解资源君) 5
       - 🇺🇲 美国(欢迎订阅Youtube破解资源君) 6
-      - 🇺🇲 美国 17
-      - 🇺🇲 美国 18
       - 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830
-      - 🇺🇲 Relay_🇺🇸US-🇺🇸US_1567
       - 🇺🇲 美国Cloudinnovation数据中心 6
       - 🇺🇲 美国Cloudinnovation数据中心 9
-      - 🇺🇲 美国Cloudinnovation数据中心 11
+      - 🇺🇲 美国
+      - 🇺🇲 美国 2
+      - 🇺🇲 美国 3
+      - 🇺🇲 美国 4
+      - 🇺🇲 美国 5
+      - 🇺🇲 美国 6
+      - 🇺🇲 美国 7
+      - 🇺🇲 美国 8
+      - 🇺🇲 美国 9
+      - 🇺🇲 美国 10
+      - 🇺🇲 美国 11
+      - 🇺🇲 美国 12
+      - 🇺🇲 美国 13
+      - 🇺🇲 美国 14
+      - 🇺🇲 美国 15
+      - 🇺🇲 美国 16
+      - 🇺🇲 美国 17
+      - 🇺🇲 美国 18
+      - 🇺🇲 美国 19
+      - 🇺🇲 美国 20
+      - 🇺🇲 美国 21
+      - 🇺🇲 美国 22
+      - 🇺🇲 美国 23
+      - 🇺🇲 美国 24
+      - 🇺🇲 美国 25
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -343,7 +439,6 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇸🇬 SG_3418
       - 🇸🇬 SG_3422
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1013
   - name: 🇰🇷 韩国节点
