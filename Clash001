@@ -20,7 +20,6 @@ proxies:
   - {name: 🇭🇰 HK_2123, server: 193.110.203.45, port: 443, type: vmess, uuid: fe93a062-d13f-3958-9ebc-0c06cd32dfb0, alterId: 3, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: 193.110.203.45}}
   - {name: 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830, server: 15.197.178.75, port: 25000, type: vmess, uuid: 49955b62-27c7-3734-bc6b-1c60c0ab0059, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /xgr, ws-headers: {Host: 15.197.178.75}}
   - {name: 🇺🇸, server: 207.244.67.149, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇳🇱 荷兰 ☆☆  02 ☆AWS☆  1.2x, server: 154.84.1.55, port: 443, type: vmess, uuid: 9636de2d-8772-4d21-b1c1-a0e065905246, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/292026011205, ws-headers: {Host: www.04887294.xyz}}
   - {name: 🇨🇳 CN_1015, server: 183.236.57.18, port: 10004, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
   - {name: 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1013, server: 183.236.57.18, port: 10002, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
   - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016, server: 183.236.57.18, port: 10001, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
@@ -115,9 +114,6 @@ proxies:
   - {name: 🇭🇰 香港, server: 18.162.168.190, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
   - {name: 🇺🇲 美国 62, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: 🇯🇵 日本, server: 18.183.171.183, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: 🇨🇦 加拿大 7, server: ss2.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
-  - {name: 🇯🇵 日本 2, server: 54.248.202.50, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: 🇬🇧 英国 8, server: 5.188.5.132, port: 38878, type: ss, cipher: chacha20-ietf-poly1305, password: OJDfLbXNqJHF}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -149,7 +145,6 @@ proxy-groups:
       - 🇭🇰 HK_2123
       - 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830
       - 🇺🇸
-      - 🇳🇱 荷兰 ☆☆  02 ☆AWS☆  1.2x
       - 🇨🇳 CN_1015
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1013
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016
@@ -244,9 +239,6 @@ proxy-groups:
       - 🇭🇰 香港
       - 🇺🇲 美国 62
       - 🇯🇵 日本
-      - 🇨🇦 加拿大 7
-      - 🇯🇵 日本 2
-      - 🇬🇧 英国 8
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -268,7 +260,6 @@ proxy-groups:
       - 🇭🇰 HK_2123
       - 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830
       - 🇺🇸
-      - 🇳🇱 荷兰 ☆☆  02 ☆AWS☆  1.2x
       - 🇨🇳 CN_1015
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1013
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016
@@ -363,9 +354,6 @@ proxy-groups:
       - 🇭🇰 香港
       - 🇺🇲 美国 62
       - 🇯🇵 日本
-      - 🇨🇦 加拿大 7
-      - 🇯🇵 日本 2
-      - 🇬🇧 英国 8
   - name: 📲 电报消息
     type: select
     proxies:
@@ -553,7 +541,6 @@ proxy-groups:
     proxies:
       - 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830
       - 🇯🇵 日本
-      - 🇯🇵 日本 2
   - name: 🇺🇲 美国节点
     type: url-test
     url: http://www.gstatic.com/generate_204
