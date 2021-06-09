@@ -31,11 +31,9 @@ proxies:
   - {name: 🇬🇧 英国 2, server: 185.44.76.188, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
   - {name: 🇺🇲 美国 5, server: 84.17.35.118, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
   - {name: 🇺🇲 美国 6, server: 212.102.44.83, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇨🇦 加拿大 2, server: ss3.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
   - {name: 🇬🇧 英国 3, server: ss.uk.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: JSvsHhHYIuVG}
-  - {name: 🇨🇦 加拿大 3, server: ss1.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇨🇦 加拿大 2, server: ss1.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
   - {name: 🇺🇲 美国 7, server: 212.102.44.83, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇸🇬 新加坡, server: 146.59.3.33, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: M1LCZAlfz1bV}
   - {name: 🇺🇲 美国 8, server: 212.102.44.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 🇺🇲 美国 9, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇺🇲 美国 10, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
@@ -46,36 +44,86 @@ proxies:
   - {name: 🇺🇲 美国 15, server: 84.17.35.118, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: 🇺🇲 美国 16, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇺🇲 美国 17, server: 84.17.35.118, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 🇺🇲 美国 18, server: 84.17.35.118, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: 🇺🇲 美国 19, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 20, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
-  - {name: 🇺🇲 美国 21, server: 23.82.11.49, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇲 美国 18, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇲 美国 19, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
+  - {name: 🇺🇲 美国 20, server: 23.82.11.49, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
   - {name: 🇬🇧 英国 4, server: 198.147.22.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 22, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 23, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
-  - {name: 🇺🇲 美国 24, server: 84.17.35.118, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 25, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 26, server: 84.17.35.118, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇺🇲 美国 21, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 美国 22, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
+  - {name: 🇺🇲 美国 23, server: 84.17.35.118, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 24, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 25, server: 84.17.35.118, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
   - {name: 🇬🇧 英国 5, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇨🇦 加拿大 4, server: ss4.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
-  - {name: 🇺🇲 美国 27, server: 138.199.16.152, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇨🇦 加拿大 3, server: ss4.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇺🇲 美国 26, server: 138.199.16.152, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: 🇨🇳 台湾, server: 2.58.242.43, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 28, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇺🇲 美国 29, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 30, server: 84.17.35.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 31, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 🇺🇲 美国 32, server: 84.17.35.118, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 🇺🇲 美国 33, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 34, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 35, server: 84.17.35.118, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-  - {name: 🇺🇲 美国 36, server: 138.199.42.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 37, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇺🇲 美国 38, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 🇺🇲 美国 39, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇲 美国 27, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇲 美国 28, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 美国 29, server: 84.17.35.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国 30, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇲 美国 31, server: 84.17.35.118, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇲 美国 32, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 33, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 34, server: 84.17.35.118, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇲 美国 35, server: 138.199.42.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇲 美国 36, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇲 美国 37, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇲 美国 38, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: 🇳🇱 荷兰 2, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 🇭🇰 香港, server: 18.162.168.190, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: 🇺🇲 美国 40, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇲 美国 39, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: 🇯🇵 日本, server: 18.183.171.183, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
+  - {name: 🇮🇹 意大利, server: 82.102.26.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇩🇪 德国, server: 212.102.36.234, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇮🇹 意大利 2, server: 82.102.26.117, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇩🇪 德国 2, server: 212.102.36.234, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇩🇪 德国 3, server: 212.102.36.234, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇲 美国 40, server: 138.199.42.163, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 41, server: 138.199.42.163, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇲 美国 42, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 乌克兰, server: 37.19.211.130, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 乌克兰 2, server: 37.19.211.130, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇨🇳 台湾 2, server: 2.58.242.43, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇺🇲 美国 43, server: 138.199.42.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇬🇧 英国 6, server: 89.238.133.125, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇺🇲 美国 44, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 美国 45, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
+  - {name: 🇺🇲 美国 46, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 美国 47, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇲 美国 48, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 49, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇩🇪 德国 4, server: 212.102.36.234, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 50, server: 84.17.35.118, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇩🇪 德国 5, server: 212.102.36.234, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇲 美国 51, server: 84.17.35.118, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇲 美国 52, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇲 美国 53, server: 84.17.35.118, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇲 美国 54, server: 207.244.67.149, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 55, server: 207.244.67.149, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国 56, server: 212.102.44.83, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国 57, server: 207.244.67.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 58, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
+  - {name: 🇩🇪 德国 7, server: 212.102.36.234, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇲 美国 59, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇬🇧 英国 7, server: 185.108.105.75, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇬🇧 英国 8, server: 185.108.105.75, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 葡萄牙, server: 91.205.230.133, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇩🇪 德国 8, server: 212.102.36.234, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇩🇪 德国 9, server: 212.102.36.234, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 葡萄牙 2, server: 91.205.230.133, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: _237, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
+  - {name: 🇺🇲 美国 60, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 葡萄牙 3, server: 91.205.230.133, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 葡萄牙 4, server: 91.205.230.133, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇳🇱 荷兰 3, server: 154.84.1.215, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
+  - {name: 🇬🇧 英国 9, server: 185.108.105.75, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇩🇪 德国 10, server: 91.90.123.173, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇪 德国 11, server: 212.102.36.234, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇬🇧 英国 10, server: 185.108.105.75, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇨🇦 加拿大 4, server: ss1.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇩🇪 德国 12, server: 212.102.36.234, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 葡萄牙 5, server: 91.205.230.133, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇨🇦 加拿大 5, server: ss2.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -118,11 +166,9 @@ proxy-groups:
       - 🇬🇧 英国 2
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇨🇦 加拿大 2
       - 🇬🇧 英国 3
-      - 🇨🇦 加拿大 3
+      - 🇨🇦 加拿大 2
       - 🇺🇲 美国 7
-      - 🇸🇬 新加坡
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
       - 🇺🇲 美国 10
@@ -136,17 +182,17 @@ proxy-groups:
       - 🇺🇲 美国 18
       - 🇺🇲 美国 19
       - 🇺🇲 美国 20
-      - 🇺🇲 美国 21
       - 🇬🇧 英国 4
+      - 🇺🇲 美国 21
       - 🇺🇲 美国 22
       - 🇺🇲 美国 23
       - 🇺🇲 美国 24
       - 🇺🇲 美国 25
-      - 🇺🇲 美国 26
       - 🇬🇧 英国 5
-      - 🇨🇦 加拿大 4
-      - 🇺🇲 美国 27
+      - 🇨🇦 加拿大 3
+      - 🇺🇲 美国 26
       - 🇨🇳 台湾
+      - 🇺🇲 美国 27
       - 🇺🇲 美国 28
       - 🇺🇲 美国 29
       - 🇺🇲 美国 30
@@ -158,11 +204,61 @@ proxy-groups:
       - 🇺🇲 美国 36
       - 🇺🇲 美国 37
       - 🇺🇲 美国 38
-      - 🇺🇲 美国 39
       - 🇳🇱 荷兰 2
       - 🇭🇰 香港
-      - 🇺🇲 美国 40
+      - 🇺🇲 美国 39
       - 🇯🇵 日本
+      - 🇮🇹 意大利
+      - 🇩🇪 德国
+      - 🇮🇹 意大利 2
+      - 🇩🇪 德国 2
+      - 🇩🇪 德国 3
+      - 🇺🇲 美国 40
+      - 🇺🇲 美国 41
+      - 🇺🇲 美国 42
+      - 乌克兰
+      - 乌克兰 2
+      - 🇨🇳 台湾 2
+      - 🇺🇲 美国 43
+      - 🇬🇧 英国 6
+      - 🇺🇲 美国 44
+      - 🇺🇲 美国 45
+      - 🇺🇲 美国 46
+      - 🇺🇲 美国 47
+      - 🇺🇲 美国 48
+      - 🇺🇲 美国 49
+      - 🇩🇪 德国 4
+      - 🇺🇲 美国 50
+      - 🇩🇪 德国 5
+      - 🇺🇲 美国 51
+      - 🇺🇲 美国 52
+      - 🇺🇲 美国 53
+      - 🇺🇲 美国 54
+      - 🇺🇲 美国 55
+      - 🇺🇲 美国 56
+      - 🇺🇲 美国 57
+      - 🇺🇲 美国 58
+      - 🇩🇪 德国 7
+      - 🇺🇲 美国 59
+      - 🇬🇧 英国 7
+      - 🇬🇧 英国 8
+      - 葡萄牙
+      - 🇩🇪 德国 8
+      - 🇩🇪 德国 9
+      - 葡萄牙 2
+      - _237
+      - 🇺🇲 美国 60
+      - 葡萄牙 3
+      - 葡萄牙 4
+      - 🇳🇱 荷兰 3
+      - 🇬🇧 英国 9
+      - 🇩🇪 德国 10
+      - 🇩🇪 德国 11
+      - 🇬🇧 英国 10
+      - 🇨🇦 加拿大 4
+      - 🇩🇪 德国 12
+      - 葡萄牙 5
+      - 🇨🇦 加拿大 5
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -195,11 +291,9 @@ proxy-groups:
       - 🇬🇧 英国 2
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
-      - 🇨🇦 加拿大 2
       - 🇬🇧 英国 3
-      - 🇨🇦 加拿大 3
+      - 🇨🇦 加拿大 2
       - 🇺🇲 美国 7
-      - 🇸🇬 新加坡
       - 🇺🇲 美国 8
       - 🇺🇲 美国 9
       - 🇺🇲 美国 10
@@ -213,17 +307,17 @@ proxy-groups:
       - 🇺🇲 美国 18
       - 🇺🇲 美国 19
       - 🇺🇲 美国 20
-      - 🇺🇲 美国 21
       - 🇬🇧 英国 4
+      - 🇺🇲 美国 21
       - 🇺🇲 美国 22
       - 🇺🇲 美国 23
       - 🇺🇲 美国 24
       - 🇺🇲 美国 25
-      - 🇺🇲 美国 26
       - 🇬🇧 英国 5
-      - 🇨🇦 加拿大 4
-      - 🇺🇲 美国 27
+      - 🇨🇦 加拿大 3
+      - 🇺🇲 美国 26
       - 🇨🇳 台湾
+      - 🇺🇲 美国 27
       - 🇺🇲 美国 28
       - 🇺🇲 美国 29
       - 🇺🇲 美国 30
@@ -235,11 +329,61 @@ proxy-groups:
       - 🇺🇲 美国 36
       - 🇺🇲 美国 37
       - 🇺🇲 美国 38
-      - 🇺🇲 美国 39
       - 🇳🇱 荷兰 2
       - 🇭🇰 香港
-      - 🇺🇲 美国 40
+      - 🇺🇲 美国 39
       - 🇯🇵 日本
+      - 🇮🇹 意大利
+      - 🇩🇪 德国
+      - 🇮🇹 意大利 2
+      - 🇩🇪 德国 2
+      - 🇩🇪 德国 3
+      - 🇺🇲 美国 40
+      - 🇺🇲 美国 41
+      - 🇺🇲 美国 42
+      - 乌克兰
+      - 乌克兰 2
+      - 🇨🇳 台湾 2
+      - 🇺🇲 美国 43
+      - 🇬🇧 英国 6
+      - 🇺🇲 美国 44
+      - 🇺🇲 美国 45
+      - 🇺🇲 美国 46
+      - 🇺🇲 美国 47
+      - 🇺🇲 美国 48
+      - 🇺🇲 美国 49
+      - 🇩🇪 德国 4
+      - 🇺🇲 美国 50
+      - 🇩🇪 德国 5
+      - 🇺🇲 美国 51
+      - 🇺🇲 美国 52
+      - 🇺🇲 美国 53
+      - 🇺🇲 美国 54
+      - 🇺🇲 美国 55
+      - 🇺🇲 美国 56
+      - 🇺🇲 美国 57
+      - 🇺🇲 美国 58
+      - 🇩🇪 德国 7
+      - 🇺🇲 美国 59
+      - 🇬🇧 英国 7
+      - 🇬🇧 英国 8
+      - 葡萄牙
+      - 🇩🇪 德国 8
+      - 🇩🇪 德国 9
+      - 葡萄牙 2
+      - _237
+      - 🇺🇲 美国 60
+      - 葡萄牙 3
+      - 葡萄牙 4
+      - 🇳🇱 荷兰 3
+      - 🇬🇧 英国 9
+      - 🇩🇪 德国 10
+      - 🇩🇪 德国 11
+      - 🇬🇧 英国 10
+      - 🇨🇦 加拿大 4
+      - 🇩🇪 德国 12
+      - 葡萄牙 5
+      - 🇨🇦 加拿大 5
   - name: 📲 电报消息
     type: select
     proxies:
@@ -475,6 +619,26 @@ proxy-groups:
       - 🇺🇲 美国 38
       - 🇺🇲 美国 39
       - 🇺🇲 美国 40
+      - 🇺🇲 美国 41
+      - 🇺🇲 美国 42
+      - 🇺🇲 美国 43
+      - 🇺🇲 美国 44
+      - 🇺🇲 美国 45
+      - 🇺🇲 美国 46
+      - 🇺🇲 美国 47
+      - 🇺🇲 美国 48
+      - 🇺🇲 美国 49
+      - 🇺🇲 美国 50
+      - 🇺🇲 美国 51
+      - 🇺🇲 美国 52
+      - 🇺🇲 美国 53
+      - 🇺🇲 美国 54
+      - 🇺🇲 美国 55
+      - 🇺🇲 美国 56
+      - 🇺🇲 美国 57
+      - 🇺🇲 美国 58
+      - 🇺🇲 美国 59
+      - 🇺🇲 美国 60
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -483,6 +647,7 @@ proxy-groups:
     proxies:
       - 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_1006
       - 🇨🇳 台湾
+      - 🇨🇳 台湾 2
   - name: 🇸🇬 狮城节点
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -491,7 +656,6 @@ proxy-groups:
     proxies:
       - 🇸🇬 SG_3422
       - 🇸🇬 Relay_🇨🇳CN-🇸🇬SG_1013
-      - 🇸🇬 新加坡
   - name: 🇰🇷 韩国节点
     type: url-test
     url: http://www.gstatic.com/generate_204
