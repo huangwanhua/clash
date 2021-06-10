@@ -124,6 +124,20 @@ proxies:
   - {name: 🇩🇪 德国 12, server: 212.102.36.234, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
   - {name: 葡萄牙 5, server: 91.205.230.133, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
   - {name: 🇨🇦 加拿大 5, server: ss2.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1, server: 23.224.191.30, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.16397120.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2, server: 23.224.149.254, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.88904794.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3, server: 23.224.191.2, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.09149731.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 6, server: 23.225.28.173, port: 443, type: vmess, uuid: da31df4d-3477-4064-884b-e6ff947ac117, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10855945.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 10, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
+  - {name: 🇳🇱 github.com/freefq - 荷兰  11, server: 46.182.107.3, port: 443, type: vmess, uuid: b2aa7a8a-ab88-4c0f-a310-0b9456c69420, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.33960870.xyz}}
+  - {name: 🇳🇱 github.com/freefq - 荷兰  12, server: 46.182.107.44, port: 443, type: vmess, uuid: 33b1f366-4537-437f-b3f6-20b0e0046828, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.27430248.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 13, server: 154.84.1.146, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 14, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
+  - {name: 🇳🇱 github.com/freefq - 荷兰  15, server: 46.182.107.147, port: 443, type: vmess, uuid: 77a48930-1e67-4a72-96be-3e584858ea4f, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16, server: 154.84.1.214, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
+  - {name: 🇳🇱 github.com/freefq - 荷兰  17, server: 46.182.107.150, port: 443, type: vmess, uuid: d3243794-6fe7-437d-862f-0a6392d00f70, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 21, server: 154.84.1.215, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
+  - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26, server: 173.242.117.35, port: 10001, type: vmess, uuid: e8e88e59-2453-4778-9e94-aa7669d8b2af, alterId: 0, cipher: auto, tls: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -259,6 +273,20 @@ proxy-groups:
       - 🇩🇪 德国 12
       - 葡萄牙 5
       - 🇨🇦 加拿大 5
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 6
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 10
+      - 🇳🇱 github.com/freefq - 荷兰  11
+      - 🇳🇱 github.com/freefq - 荷兰  12
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 13
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 14
+      - 🇳🇱 github.com/freefq - 荷兰  15
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
+      - 🇳🇱 github.com/freefq - 荷兰  17
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 21
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -384,6 +412,20 @@ proxy-groups:
       - 🇩🇪 德国 12
       - 葡萄牙 5
       - 🇨🇦 加拿大 5
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 6
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 10
+      - 🇳🇱 github.com/freefq - 荷兰  11
+      - 🇳🇱 github.com/freefq - 荷兰  12
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 13
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 14
+      - 🇳🇱 github.com/freefq - 荷兰  15
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
+      - 🇳🇱 github.com/freefq - 荷兰  17
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 21
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
   - name: 📲 电报消息
     type: select
     proxies:
@@ -639,6 +681,16 @@ proxy-groups:
       - 🇺🇲 美国 58
       - 🇺🇲 美国 59
       - 🇺🇲 美国 60
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 6
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 10
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 13
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 14
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 21
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.gstatic.com/generate_204
