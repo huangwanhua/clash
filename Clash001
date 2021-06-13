@@ -240,6 +240,80 @@ proxies:
   - {name: 🇮🇹 意大利 19, server: 82.102.26.117, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
   - {name: 🇺🇲 美国 107, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
   - {name: 🇺🇲 美国 108, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
+  - {name: 🇭🇰 香港 2, server: 120.232.41.6, port: 204, type: ss, cipher: aes-128-gcm, password: 7oosgzlD}
+  - {name: 🇳🇱 荷兰 17, server: 212.102.35.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇷🇴 罗马尼亚 4, server: 193.29.106.197, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇲 美国 109, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇳🇱 荷兰 18, server: 46.182.107.150, port: 443, type: vmess, uuid: d3243794-6fe7-437d-862f-0a6392d00f70, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
+  - {name: 🇺🇲 美国 110, server: 104.200.131.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇪 德国 16, server: 78.47.94.207, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
+  - {name: 🇩🇪 德国 17, server: 78.47.91.90, port: 36352, type: ss, cipher: aes-256-gcm, password: JUZTvwqCdJYW}
+  - {name: 🇳🇱 荷兰 19, server: 154.84.1.217, port: 443, type: vmess, uuid: d03a8fbf-7d51-46c3-b02d-17ff0b32e4c5, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53103739.xyz}}
+  - {name: 🇮🇹 意大利 20, server: 82.102.26.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇫🇷 法国 3, server: 51.77.170.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7FDvhjev93bs}
+  - {name: 🇮🇹 意大利 21, server: 82.102.26.117, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇮🇹 意大利 22, server: 82.102.26.117, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇮🇹 意大利 23, server: 82.102.26.117, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇮🇹 意大利 24, server: 82.102.26.117, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 🇮🇹 意大利 25, server: 82.102.26.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 🇮🇹 意大利 26, server: 82.102.26.117, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇩🇪 德国 18, server: 78.47.219.86, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
+  - {name: 🇮🇹 意大利 27, server: 82.102.26.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇲 美国 111, server: 212.102.44.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇬🇧 英国 26, server: 185.44.76.188, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇮🇹 意大利 28, server: 82.102.26.117, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇺🇲 美国 112, server: 45.89.173.205, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇮🇹 意大利 29, server: 82.102.26.117, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇮🇹 意大利 30, server: 82.102.26.117, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇮🇹 意大利 31, server: 82.102.26.117, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇲 美国 113, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇮🇹 意大利 32, server: 82.102.26.117, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇹 意大利 33, server: 82.102.26.117, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇲 美国 114, server: 198.147.22.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 西班牙, server: 82.102.26.237, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇮🇹 意大利 34, server: 82.102.26.117, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 🇺🇲 美国 115, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇮🇹 意大利 35, server: 82.102.26.117, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇮🇹 意大利 36, server: 82.102.26.117, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇮🇹 意大利 37, server: 82.102.26.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇮🇹 意大利 38, server: 82.102.26.117, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇲 美国 116, server: 212.102.44.83, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇳🇱 荷兰 20, server: 46.182.107.147, port: 443, type: vmess, uuid: 77a48930-1e67-4a72-96be-3e584858ea4f, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
+  - {name: 🇺🇲 美国 117, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇮🇹 意大利 39, server: 82.102.26.117, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇮🇹 意大利 40, server: 82.102.26.117, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇮🇹 意大利 41, server: 82.102.26.117, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇲 美国 118, server: 45.89.173.205, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇮🇹 意大利 42, server: 82.102.26.117, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 塞浦路斯 4, server: 46.182.107.39, port: 443, type: vmess, uuid: d09448d0-2a16-4288-b37d-de49928e59bd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
+  - {name: 🇬🇧 英国 27, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇳🇱 荷兰 21, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
+  - {name: 🇬🇧 英国 28, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇮🇹 意大利 43, server: 89.238.133.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇮🇹 意大利 44, server: 89.238.133.125, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇮🇹 意大利 45, server: 89.238.133.125, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 119, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 120, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 121, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇷🇴 罗马尼亚 5, server: 193.29.106.20, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 122, server: 207.244.67.149, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国 123, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
+  - {name: 🇬🇧 英国 29, server: 35.178.68.152, port: 47611, type: vmess, uuid: 97a4d167-b361-48b8-b004-8bc45669e334, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇲 美国 124, server: 207.244.67.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇳🇱 荷兰 22, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 125, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 美国 126, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 127, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇳🇱 荷兰 23, server: 154.84.1.146, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
+  - {name: 🇺🇲 美国 128, server: 84.17.35.118, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇺🇲 美国 129, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇲 美国 130, server: 84.17.35.118, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 131, server: 84.17.35.118, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇺🇲 美国 132, server: 84.17.35.118, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇭🇰 香港 3, server: 18.162.96.154, port: 80, type: vmess, uuid: 119f999c-2cf9-36cd-bf7b-08fdf66dbd45, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /hk, ws-headers: {Host: apple.com}}
+  - {name: 🇺🇲 美国 133, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇬🇧 英国 30, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇲 美国 134, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -491,6 +565,80 @@ proxy-groups:
       - 🇮🇹 意大利 19
       - 🇺🇲 美国 107
       - 🇺🇲 美国 108
+      - 🇭🇰 香港 2
+      - 🇳🇱 荷兰 17
+      - 🇷🇴 罗马尼亚 4
+      - 🇺🇲 美国 109
+      - 🇳🇱 荷兰 18
+      - 🇺🇲 美国 110
+      - 🇩🇪 德国 16
+      - 🇩🇪 德国 17
+      - 🇳🇱 荷兰 19
+      - 🇮🇹 意大利 20
+      - 🇫🇷 法国 3
+      - 🇮🇹 意大利 21
+      - 🇮🇹 意大利 22
+      - 🇮🇹 意大利 23
+      - 🇮🇹 意大利 24
+      - 🇮🇹 意大利 25
+      - 🇮🇹 意大利 26
+      - 🇩🇪 德国 18
+      - 🇮🇹 意大利 27
+      - 🇺🇲 美国 111
+      - 🇬🇧 英国 26
+      - 🇮🇹 意大利 28
+      - 🇺🇲 美国 112
+      - 🇮🇹 意大利 29
+      - 🇮🇹 意大利 30
+      - 🇮🇹 意大利 31
+      - 🇺🇲 美国 113
+      - 🇮🇹 意大利 32
+      - 🇮🇹 意大利 33
+      - 🇺🇲 美国 114
+      - 西班牙
+      - 🇮🇹 意大利 34
+      - 🇺🇲 美国 115
+      - 🇮🇹 意大利 35
+      - 🇮🇹 意大利 36
+      - 🇮🇹 意大利 37
+      - 🇮🇹 意大利 38
+      - 🇺🇲 美国 116
+      - 🇳🇱 荷兰 20
+      - 🇺🇲 美国 117
+      - 🇮🇹 意大利 39
+      - 🇮🇹 意大利 40
+      - 🇮🇹 意大利 41
+      - 🇺🇲 美国 118
+      - 🇮🇹 意大利 42
+      - 塞浦路斯 4
+      - 🇬🇧 英国 27
+      - 🇳🇱 荷兰 21
+      - 🇬🇧 英国 28
+      - 🇮🇹 意大利 43
+      - 🇮🇹 意大利 44
+      - 🇮🇹 意大利 45
+      - 🇺🇲 美国 119
+      - 🇺🇲 美国 120
+      - 🇺🇲 美国 121
+      - 🇷🇴 罗马尼亚 5
+      - 🇺🇲 美国 122
+      - 🇺🇲 美国 123
+      - 🇬🇧 英国 29
+      - 🇺🇲 美国 124
+      - 🇳🇱 荷兰 22
+      - 🇺🇲 美国 125
+      - 🇺🇲 美国 126
+      - 🇺🇲 美国 127
+      - 🇳🇱 荷兰 23
+      - 🇺🇲 美国 128
+      - 🇺🇲 美国 129
+      - 🇺🇲 美国 130
+      - 🇺🇲 美国 131
+      - 🇺🇲 美国 132
+      - 🇭🇰 香港 3
+      - 🇺🇲 美国 133
+      - 🇬🇧 英国 30
+      - 🇺🇲 美国 134
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -732,6 +880,80 @@ proxy-groups:
       - 🇮🇹 意大利 19
       - 🇺🇲 美国 107
       - 🇺🇲 美国 108
+      - 🇭🇰 香港 2
+      - 🇳🇱 荷兰 17
+      - 🇷🇴 罗马尼亚 4
+      - 🇺🇲 美国 109
+      - 🇳🇱 荷兰 18
+      - 🇺🇲 美国 110
+      - 🇩🇪 德国 16
+      - 🇩🇪 德国 17
+      - 🇳🇱 荷兰 19
+      - 🇮🇹 意大利 20
+      - 🇫🇷 法国 3
+      - 🇮🇹 意大利 21
+      - 🇮🇹 意大利 22
+      - 🇮🇹 意大利 23
+      - 🇮🇹 意大利 24
+      - 🇮🇹 意大利 25
+      - 🇮🇹 意大利 26
+      - 🇩🇪 德国 18
+      - 🇮🇹 意大利 27
+      - 🇺🇲 美国 111
+      - 🇬🇧 英国 26
+      - 🇮🇹 意大利 28
+      - 🇺🇲 美国 112
+      - 🇮🇹 意大利 29
+      - 🇮🇹 意大利 30
+      - 🇮🇹 意大利 31
+      - 🇺🇲 美国 113
+      - 🇮🇹 意大利 32
+      - 🇮🇹 意大利 33
+      - 🇺🇲 美国 114
+      - 西班牙
+      - 🇮🇹 意大利 34
+      - 🇺🇲 美国 115
+      - 🇮🇹 意大利 35
+      - 🇮🇹 意大利 36
+      - 🇮🇹 意大利 37
+      - 🇮🇹 意大利 38
+      - 🇺🇲 美国 116
+      - 🇳🇱 荷兰 20
+      - 🇺🇲 美国 117
+      - 🇮🇹 意大利 39
+      - 🇮🇹 意大利 40
+      - 🇮🇹 意大利 41
+      - 🇺🇲 美国 118
+      - 🇮🇹 意大利 42
+      - 塞浦路斯 4
+      - 🇬🇧 英国 27
+      - 🇳🇱 荷兰 21
+      - 🇬🇧 英国 28
+      - 🇮🇹 意大利 43
+      - 🇮🇹 意大利 44
+      - 🇮🇹 意大利 45
+      - 🇺🇲 美国 119
+      - 🇺🇲 美国 120
+      - 🇺🇲 美国 121
+      - 🇷🇴 罗马尼亚 5
+      - 🇺🇲 美国 122
+      - 🇺🇲 美国 123
+      - 🇬🇧 英国 29
+      - 🇺🇲 美国 124
+      - 🇳🇱 荷兰 22
+      - 🇺🇲 美国 125
+      - 🇺🇲 美国 126
+      - 🇺🇲 美国 127
+      - 🇳🇱 荷兰 23
+      - 🇺🇲 美国 128
+      - 🇺🇲 美国 129
+      - 🇺🇲 美国 130
+      - 🇺🇲 美国 131
+      - 🇺🇲 美国 132
+      - 🇭🇰 香港 3
+      - 🇺🇲 美国 133
+      - 🇬🇧 英国 30
+      - 🇺🇲 美国 134
   - name: 📲 电报消息
     type: select
     proxies:
@@ -911,6 +1133,8 @@ proxy-groups:
       - 🇭🇰 HK_2123
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016
       - 🇭🇰 香港
+      - 🇭🇰 香港 2
+      - 🇭🇰 香港 3
   - name: 🇯🇵 日本节点
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1046,6 +1270,32 @@ proxy-groups:
       - 🇺🇲 美国 106
       - 🇺🇲 美国 107
       - 🇺🇲 美国 108
+      - 🇺🇲 美国 109
+      - 🇺🇲 美国 110
+      - 🇺🇲 美国 111
+      - 🇺🇲 美国 112
+      - 🇺🇲 美国 113
+      - 🇺🇲 美国 114
+      - 🇺🇲 美国 115
+      - 🇺🇲 美国 116
+      - 🇺🇲 美国 117
+      - 🇺🇲 美国 118
+      - 🇺🇲 美国 119
+      - 🇺🇲 美国 120
+      - 🇺🇲 美国 121
+      - 🇺🇲 美国 122
+      - 🇺🇲 美国 123
+      - 🇺🇲 美国 124
+      - 🇺🇲 美国 125
+      - 🇺🇲 美国 126
+      - 🇺🇲 美国 127
+      - 🇺🇲 美国 128
+      - 🇺🇲 美国 129
+      - 🇺🇲 美国 130
+      - 🇺🇲 美国 131
+      - 🇺🇲 美国 132
+      - 🇺🇲 美国 133
+      - 🇺🇲 美国 134
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.gstatic.com/generate_204
