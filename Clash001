@@ -15,305 +15,240 @@ proxies:
   - {name: 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016, server: 183.236.57.18, port: 10001, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
   - {name: 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_1006, server: 183.236.57.18, port: 10003, type: vmess, uuid: dd734b09-b054-4b3a-8d38-df443f6ef314, alterId: 1, cipher: auto, tls: false}
   - {name: 🇨🇳 更多：http://r6f.cn/bra2j, server: 1.1.1.1, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
-  - {name: 🇺🇲 美国Cloudinnovation数据中心 6, server: 154.84.1.106, port: 443, type: vmess, uuid: a8089885-9602-4052-b1a3-1c9e02df635d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.63681459.xyz}}
-  - {name: 🇳🇱 荷兰, server: 154.84.1.217, port: 443, type: vmess, uuid: d03a8fbf-7d51-46c3-b02d-17ff0b32e4c5, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53103739.xyz}}
   - {name: 🇺🇲 美国, server: vip9-3.lounge.workers.dev, port: 443, type: vmess, uuid: f5121518-a614-4a16-b1f1-8dbc0c502854, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: vip9-3.lounge.workers.dev}}
   - {name: 🇨🇦 加拿大, server: 45.62.233.34, port: 2096, type: vmess, uuid: b6b44b86-c1e1-11eb-85a3-0050569b8c57, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /IfRHiCow/, ws-headers: {Host: a2.ssrsub.one}}
-  - {name: 🇷🇴 罗马尼亚, server: 91.90.123.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 2, server: 212.102.44.83, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
   - {name: 🇬🇧 英国, server: ss.uk.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: JSvsHhHYIuVG}
-  - {name: 🇺🇲 美国 3, server: 212.102.44.83, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 4, server: 212.102.44.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 5, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 6, server: 198.147.22.87, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
-  - {name: 🇺🇲 美国 7, server: 84.17.35.118, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: 🇺🇲 美国 8, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 9, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 10, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
-  - {name: 🇺🇲 美国 11, server: 23.82.11.49, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇬🇧 英国 2, server: 198.147.22.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇨🇦 加拿大 2, server: ss4.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
-  - {name: 🇺🇲 美国 12, server: 138.199.16.152, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇺🇲 美国 2, server: 138.199.16.152, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: 🇨🇳 台湾, server: 2.58.242.43, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 13, server: 84.17.35.118, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 🇺🇲 美国 14, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇳🇱 荷兰 2, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 🇭🇰 香港, server: 18.162.168.190, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: 🇺🇲 美国 15, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: 🇯🇵 日本, server: 18.183.171.183, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
   - {name: 🇩🇪 德国, server: 212.102.36.234, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: 🇩🇪 德国 2, server: 212.102.36.234, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
   - {name: 🇩🇪 德国 3, server: 212.102.36.234, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 🇺🇲 美国 16, server: 138.199.42.163, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 3, server: 138.199.42.163, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: 乌克兰, server: 37.19.211.130, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: 乌克兰 2, server: 37.19.211.130, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇨🇳 台湾 2, server: 2.58.242.43, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
-  - {name: 🇺🇲 美国 17, server: 138.199.42.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇬🇧 英国 3, server: 89.238.133.125, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 🇺🇲 美国 18, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 美国 4, server: 138.199.42.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇬🇧 英国 2, server: 89.238.133.125, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
   - {name: 🇩🇪 德国 4, server: 212.102.36.234, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: 🇩🇪 德国 5, server: 212.102.36.234, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: 🇺🇲 美国 19, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇺🇲 美国 20, server: 207.244.67.149, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 21, server: 207.244.67.149, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇩🇪 德国 7, server: 212.102.36.234, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 🇺🇲 美国 22, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
   - {name: 葡萄牙, server: 91.205.230.133, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
   - {name: 🇩🇪 德国 8, server: 212.102.36.234, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
   - {name: 🇩🇪 德国 9, server: 212.102.36.234, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: 葡萄牙 2, server: 91.205.230.133, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: 葡萄牙 3, server: 91.205.230.133, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 葡萄牙 4, server: 91.205.230.133, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇬🇧 英国 4, server: 185.108.105.75, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇬🇧 英国 3, server: 185.108.105.75, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: 🇩🇪 德国 10, server: 91.90.123.173, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇩🇪 德国 11, server: 212.102.36.234, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 🇬🇧 英国 5, server: 185.108.105.75, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇨🇦 加拿大 3, server: ss1.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇬🇧 英国 4, server: 185.108.105.75, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
   - {name: 🇩🇪 德国 12, server: 212.102.36.234, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
   - {name: 葡萄牙 5, server: 91.205.230.133, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇨🇦 加拿大 4, server: ss2.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 🇨🇦 加拿大 2, server: ss2.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
   - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1, server: 23.224.191.30, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.16397120.xyz}}
   - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2, server: 23.224.149.254, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.88904794.xyz}}
   - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3, server: 23.224.191.2, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.09149731.xyz}}
-  - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 6, server: 23.225.28.173, port: 443, type: vmess, uuid: da31df4d-3477-4064-884b-e6ff947ac117, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10855945.xyz}}
-  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 10, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
-  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 13, server: 154.84.1.146, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
-  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 14, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
   - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16, server: 154.84.1.214, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
-  - {name: 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 21, server: 154.84.1.215, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
   - {name: 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26, server: 173.242.117.35, port: 10001, type: vmess, uuid: e8e88e59-2453-4778-9e94-aa7669d8b2af, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇮🇹 意大利, server: 82.102.26.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 🇮🇹 意大利 2, server: 82.102.26.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 🇮🇹 意大利 3, server: 82.102.26.117, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇮🇹 意大利 4, server: 82.102.26.117, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: 🇺🇲 美国 23, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇮🇹 意大利 5, server: 82.102.26.117, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇬🇧 英国 6, server: 185.108.105.75, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 🇨🇦 加拿大 5, server: ss3.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
-  - {name: 🇬🇧 英国 7, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇬🇧 英国 8, server: 35.178.68.152, port: 47611, type: vmess, uuid: 97a4d167-b361-48b8-b004-8bc45669e334, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇲 美国 24, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 🇺🇲 美国 25, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
-  - {name: 🇺🇲 美国 26, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 🇺🇲 美国 27, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 28, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇺🇲 美国 29, server: 84.17.35.118, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 30, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 31, server: 84.17.35.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 32, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 🇩🇪 德国 13, server: 193.29.106.197, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 33, server: 84.17.35.118, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 🇺🇲 美国 34, server: 84.17.35.118, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: 🇺🇲 美国 35, server: 84.17.35.118, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 🇺🇲 美国 36, server: 84.17.35.118, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇬🇧 英国 9, server: 185.44.76.188, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇺🇲 美国 37, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 38, server: 84.17.35.118, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-  - {name: 🇺🇲 美国 39, server: 84.17.35.118, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇲 美国 40, server: 84.17.35.118, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇬🇧 英国 10, server: 185.108.105.75, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇬🇧 英国 11, server: 185.108.105.75, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇬🇧 英国 5, server: 185.108.105.75, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇬🇧 英国 6, server: 185.108.105.75, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇬🇧 英国 7, server: 185.108.105.75, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
   - {name: 🇯🇵 日本 2, server: 5.183.176.78, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.94459853.xyz}}
-  - {name: 🇺🇲 美国 41, server: 212.102.44.83, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 42, server: 207.244.67.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 43, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
-  - {name: 🇬🇧 英国 12, server: 185.108.105.75, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇬🇧 英国 13, server: 185.108.105.75, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 🇺🇲 美国 44, server: 198.147.22.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇬🇧 英国 14, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇬🇧 英国 15, server: 185.108.105.75, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: _237, server: 45.88.42.22, port: 54068, type: vmess, uuid: 83f7d4a0-a787-4cff-fb37-fa9e556b24d4, alterId: 64, cipher: auto, tls: false}
-  - {name: 🇺🇲 美国 45, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇬🇧 英国 16, server: 185.108.105.75, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇷🇺 俄罗斯, server: 172.67.150.130, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
-  - {name: 🇳🇱 荷兰 3, server: 46.182.107.44, port: 443, type: vmess, uuid: 33b1f366-4537-437f-b3f6-20b0e0046828, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.27430248.xyz}}
-  - {name: 🇳🇱 荷兰 4, server: 46.182.107.147, port: 443, type: vmess, uuid: 77a48930-1e67-4a72-96be-3e584858ea4f, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
-  - {name: 🇳🇱 荷兰 5, server: 46.182.107.150, port: 443, type: vmess, uuid: d3243794-6fe7-437d-862f-0a6392d00f70, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
+  - {name: 🇬🇧 英国 8, server: 185.108.105.75, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇬🇧 英国 9, server: 185.108.105.75, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇬🇧 英国 10, server: 185.108.105.75, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇬🇧 英国 11, server: 185.108.105.75, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: Pool__222, server: 46.182.107.3, port: 443, type: vmess, uuid: b2aa7a8a-ab88-4c0f-a310-0b9456c69420, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.33960870.xyz}}
-  - {name: 塞浦路斯, server: 46.182.107.39, port: 443, type: vmess, uuid: d09448d0-2a16-4288-b37d-de49928e59bd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
-  - {name: 🇳🇱 荷兰 6, server: 212.102.35.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 46, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇳🇱 荷兰 7, server: 154.84.1.217, port: 443, type: vmess, uuid: d03a8fbf-7d51-46c3-b02d-17ff0b32e4c5, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53103739.xyz}}
-  - {name: 🇷🇴 罗马尼亚 2, server: 193.29.106.197, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇫🇷 法国, server: 51.77.170.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7FDvhjev93bs}
-  - {name: 🇬🇧 英国 17, server: 185.44.76.188, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇬🇧 英国 18, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇳🇱 荷兰 8, server: 46.182.107.150, port: 443, type: vmess, uuid: d3243794-6fe7-437d-862f-0a6392d00f70, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
-  - {name: 🇮🇹 意大利 6, server: 82.102.26.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 🇳🇱 荷兰 9, server: 46.182.107.147, port: 443, type: vmess, uuid: 77a48930-1e67-4a72-96be-3e584858ea4f, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
-  - {name: 🇳🇱 荷兰 10, server: 154.84.1.215, port: 443, type: vmess, uuid: 756f5f10-6bda-4dd0-bf07-5c4d61773611, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.61020861.xyz}}
-  - {name: 塞浦路斯 2, server: 46.182.107.39, port: 443, type: vmess, uuid: d09448d0-2a16-4288-b37d-de49928e59bd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
-  - {name: 🇮🇹 意大利 7, server: 82.102.26.117, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: 🇳🇱 荷兰 11, server: 154.84.1.106, port: 443, type: vmess, uuid: a8089885-9602-4052-b1a3-1c9e02df635d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.63681459.xyz}}
-  - {name: 🇳🇱 荷兰 12, server: 46.182.107.44, port: 443, type: vmess, uuid: 33b1f366-4537-437f-b3f6-20b0e0046828, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.27430248.xyz}}
-  - {name: 🇮🇹 意大利 8, server: 82.102.26.117, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇺🇲 美国 47, server: 198.147.22.87, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
-  - {name: 🇷🇺 俄罗斯 2, server: 172.67.150.130, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
-  - {name: 🇮🇹 意大利 9, server: 82.102.26.117, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 48, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇮🇹 意大利 10, server: 82.102.26.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 🇬🇧 英国 19, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 49, server: 212.102.44.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 50, server: 198.147.22.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇬🇧 英国 20, server: 35.178.68.152, port: 47611, type: vmess, uuid: 97a4d167-b361-48b8-b004-8bc45669e334, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇲 美国 51, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 52, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
-  - {name: 🇺🇲 美国 53, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 54, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
-  - {name: 🇺🇲 美国 55, server: 84.17.35.118, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 🇺🇲 美国 56, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
-  - {name: 🇺🇲 美国 57, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇺🇲 美国 58, server: 84.17.35.118, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 🇺🇲 美国 59, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 60, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇺🇲 美国 61, server: 84.17.35.118, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 62, server: 84.17.35.118, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇺🇲 美国 63, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 64, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 65, server: 84.17.35.118, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 🇺🇲 美国 66, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇺🇲 美国 67, server: 84.17.35.118, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 68, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 69, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 70, server: 84.17.35.118, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-  - {name: 🇺🇲 美国 71, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 🇺🇲 美国 72, server: 84.17.35.118, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: 🇺🇲 美国 73, server: 84.17.35.118, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇲 美国 74, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 🇺🇲 美国 75, server: 207.244.67.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 76, server: 84.17.35.118, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: 🇺🇲 美国 77, server: 84.17.35.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 78, server: 207.244.67.149, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 79, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 🇳🇱 荷兰 13, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇷🇴 罗马尼亚 3, server: 91.90.123.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 80, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 81, server: 212.102.44.83, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇳🇱 荷兰 14, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
-  - {name: 🇺🇲 美国 82, server: 172.247.18.76, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53005675.xyz}}
-  - {name: 🇺🇲 美国 83, server: 212.102.44.83, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
-  - {name: 🇺🇲 美国 84, server: 120.232.41.6, port: 204, type: ss, cipher: aes-128-gcm, password: 7oosgzlD}
-  - {name: 🇺🇲 美国 85, server: 172.247.27.194, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.29160682.xyz}}
-  - {name: 🇺🇲 美国 86, server: 120.232.41.6, port: 209, type: ss, cipher: aes-128-gcm, password: X6jkD9bE}
-  - {name: 克罗地亚, server: 85.10.50.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 87, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇳🇱 荷兰 15, server: 212.102.35.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 88, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 89, server: 212.102.44.83, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
-  - {name: 🇳🇱 荷兰 16, server: 193.32.210.230, port: 35870, type: ss, cipher: aes-256-gcm, password: VFqcjsifsjyC}
-  - {name: 🇬🇧 英国 21, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 90, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 91, server: 212.102.44.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 92, server: 212.102.44.83, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 克罗地亚 2, server: 85.10.50.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇨🇦 加拿大 6, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 93, server: 198.147.22.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇲 美国 94, server: 104.200.131.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇫🇷 法国 2, server: 51.77.170.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7FDvhjev93bs}
-  - {name: 🇺🇲 美国 95, server: 212.102.44.83, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 塞浦路斯 3, server: 46.182.107.39, port: 443, type: vmess, uuid: d09448d0-2a16-4288-b37d-de49928e59bd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
-  - {name: 🇮🇹 意大利 11, server: 82.102.26.117, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 🇺🇲 美国 96, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 97, server: 45.89.173.205, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇩🇪 德国 14, server: 78.47.219.86, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
-  - {name: 🇺🇲 美国 98, server: 45.89.173.205, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇲 美国 99, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
-  - {name: 🇬🇧 英国 22, server: 185.44.76.188, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇬🇧 英国 23, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇮🇹 意大利 12, server: 82.102.26.117, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇮🇹 意大利 13, server: 82.102.26.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇮🇹 意大利 14, server: 89.238.133.125, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇮🇹 意大利 15, server: 89.238.133.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 100, server: 45.89.173.205, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国 24, server: 139.28.176.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇩🇪 德国 15, server: 51.89.108.65, port: 443, type: vmess, uuid: 2c21f10c-ed4a-4adc-ac34-34d65dd3ce65, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.15738743.xyz}}
-  - {name: 🇮🇹 意大利 16, server: 89.238.133.125, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 101, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国 25, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 102, server: 198.147.22.87, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
-  - {name: 🇺🇲 美国 103, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇮🇹 意大利 17, server: 82.102.26.117, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇲 美国 104, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
-  - {name: 🇺🇲 美国 105, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇺🇲 美国 106, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇮🇹 意大利 18, server: 82.102.26.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 🇮🇹 意大利 19, server: 82.102.26.117, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 🇺🇲 美国 107, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇺🇲 美国 108, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
-  - {name: 🇭🇰 香港 2, server: 120.232.41.6, port: 204, type: ss, cipher: aes-128-gcm, password: 7oosgzlD}
-  - {name: 🇳🇱 荷兰 17, server: 212.102.35.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇷🇴 罗马尼亚 4, server: 193.29.106.197, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 109, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇳🇱 荷兰 18, server: 46.182.107.150, port: 443, type: vmess, uuid: d3243794-6fe7-437d-862f-0a6392d00f70, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
-  - {name: 🇺🇲 美国 110, server: 104.200.131.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇩🇪 德国 16, server: 78.47.94.207, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
-  - {name: 🇩🇪 德国 17, server: 78.47.91.90, port: 36352, type: ss, cipher: aes-256-gcm, password: JUZTvwqCdJYW}
-  - {name: 🇳🇱 荷兰 19, server: 154.84.1.217, port: 443, type: vmess, uuid: d03a8fbf-7d51-46c3-b02d-17ff0b32e4c5, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53103739.xyz}}
-  - {name: 🇮🇹 意大利 20, server: 82.102.26.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇫🇷 法国 3, server: 51.77.170.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7FDvhjev93bs}
-  - {name: 🇮🇹 意大利 21, server: 82.102.26.117, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇮🇹 意大利 22, server: 82.102.26.117, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 🇮🇹 意大利 23, server: 82.102.26.117, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: 🇮🇹 意大利 24, server: 82.102.26.117, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
-  - {name: 🇮🇹 意大利 25, server: 82.102.26.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 🇮🇹 意大利 26, server: 82.102.26.117, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇩🇪 德国 18, server: 78.47.219.86, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
-  - {name: 🇮🇹 意大利 27, server: 82.102.26.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 🇺🇲 美国 111, server: 212.102.44.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国 26, server: 185.44.76.188, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇮🇹 意大利 28, server: 82.102.26.117, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 🇺🇲 美国 112, server: 45.89.173.205, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇮🇹 意大利 29, server: 82.102.26.117, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-  - {name: 🇮🇹 意大利 30, server: 82.102.26.117, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: 🇮🇹 意大利 31, server: 82.102.26.117, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-  - {name: 🇺🇲 美国 113, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇮🇹 意大利 32, server: 82.102.26.117, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-  - {name: 🇮🇹 意大利 33, server: 82.102.26.117, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇺🇲 美国 114, server: 198.147.22.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 西班牙, server: 82.102.26.237, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 🇮🇹 意大利 34, server: 82.102.26.117, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: 🇺🇲 美国 115, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇮🇹 意大利 35, server: 82.102.26.117, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇮🇹 意大利 36, server: 82.102.26.117, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 🇮🇹 意大利 37, server: 82.102.26.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇮🇹 意大利 38, server: 82.102.26.117, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇲 美国 116, server: 212.102.44.83, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
-  - {name: 🇳🇱 荷兰 20, server: 46.182.107.147, port: 443, type: vmess, uuid: 77a48930-1e67-4a72-96be-3e584858ea4f, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
-  - {name: 🇺🇲 美国 117, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇮🇹 意大利 39, server: 82.102.26.117, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 🇮🇹 意大利 40, server: 82.102.26.117, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇮🇹 意大利 41, server: 82.102.26.117, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 🇺🇲 美国 118, server: 45.89.173.205, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇮🇹 意大利 42, server: 82.102.26.117, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 塞浦路斯 4, server: 46.182.107.39, port: 443, type: vmess, uuid: d09448d0-2a16-4288-b37d-de49928e59bd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
-  - {name: 🇬🇧 英国 27, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇳🇱 荷兰 21, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
-  - {name: 🇬🇧 英国 28, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇮🇹 意大利 43, server: 89.238.133.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇮🇹 意大利 44, server: 89.238.133.125, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇮🇹 意大利 45, server: 89.238.133.125, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 119, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 120, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 121, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇷🇴 罗马尼亚 5, server: 193.29.106.20, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 122, server: 207.244.67.149, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 123, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
-  - {name: 🇬🇧 英国 29, server: 35.178.68.152, port: 47611, type: vmess, uuid: 97a4d167-b361-48b8-b004-8bc45669e334, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇲 美国 124, server: 207.244.67.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇳🇱 荷兰 22, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 125, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 126, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 127, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇳🇱 荷兰 23, server: 154.84.1.146, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
-  - {name: 🇺🇲 美国 128, server: 84.17.35.118, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 🇺🇲 美国 129, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 🇺🇲 美国 130, server: 84.17.35.118, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 131, server: 84.17.35.118, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇺🇲 美国 132, server: 84.17.35.118, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇳🇱 荷兰, server: 154.84.1.106, port: 443, type: vmess, uuid: a8089885-9602-4052-b1a3-1c9e02df635d, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.63681459.xyz}}
+  - {name: 🇳🇱 荷兰 2, server: 46.182.107.44, port: 443, type: vmess, uuid: 33b1f366-4537-437f-b3f6-20b0e0046828, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.27430248.xyz}}
+  - {name: 🇷🇺 俄罗斯, server: 172.67.150.130, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
+  - {name: 🇮🇹 意大利, server: 82.102.26.117, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 5, server: 84.17.35.118, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇺🇲 美国 6, server: 84.17.35.118, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 7, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 美国 8, server: 84.17.35.118, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇺🇲 美国 9, server: 84.17.35.118, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇺🇲 美国 10, server: 84.17.35.118, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇺🇲 美国 11, server: 84.17.35.118, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国 12, server: 207.244.67.149, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 13, server: 172.247.27.194, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.29160682.xyz}}
+  - {name: 🇳🇱 荷兰 3, server: 193.32.210.230, port: 35870, type: ss, cipher: aes-256-gcm, password: VFqcjsifsjyC}
+  - {name: 🇺🇲 美国 14, server: 212.102.44.83, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇨🇦 加拿大 3, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 15, server: 212.102.44.83, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 16, server: 198.147.22.87, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
+  - {name: 🇮🇹 意大利 2, server: 82.102.26.117, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇲 美国 17, server: 84.17.35.118, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇲 美国 18, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇩🇪 德国 13, server: 78.47.94.207, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
+  - {name: 🇩🇪 德国 14, server: 78.47.91.90, port: 36352, type: ss, cipher: aes-256-gcm, password: JUZTvwqCdJYW}
+  - {name: 🇮🇹 意大利 3, server: 82.102.26.117, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇮🇹 意大利 4, server: 82.102.26.117, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 🇩🇪 德国 15, server: 78.47.219.86, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
+  - {name: 🇮🇹 意大利 5, server: 82.102.26.117, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 🇮🇹 意大利 6, server: 82.102.26.117, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇮🇹 意大利 7, server: 82.102.26.117, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 🇮🇹 意大利 8, server: 82.102.26.117, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇮🇹 意大利 9, server: 82.102.26.117, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇮🇹 意大利 10, server: 82.102.26.117, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇲 美国 19, server: 212.102.44.83, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇮🇹 意大利 11, server: 82.102.26.117, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇮🇹 意大利 12, server: 82.102.26.117, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇮🇹 意大利 13, server: 89.238.133.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇮🇹 意大利 14, server: 89.238.133.125, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 20, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇷🇴 罗马尼亚, server: 193.29.106.20, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 21, server: 207.244.67.149, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇲 美国 22, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇺🇲 美国 23, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇺🇲 美国 24, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇲 美国 25, server: 84.17.35.118, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇺🇲 美国 26, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 27, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇩🇪 德国 小莉与科技, server: 51.195.118.69, port: 21474, type: ss, cipher: chacha20-ietf-poly1305, password: cWv8FcJk0VpS}
+  - {name: 小莉频道, server: 51.195.149.30, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: JSvsHhHYIuVG}
+  - {name: 小莉频道 2, server: 146.59.3.33, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: M1LCZAlfz1bV}
+  - {name: 🇺🇲 US 小莉与科技, server: 207.182.155.170, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: gRcNQyKEpDEI}
+  - {name: 小莉与科技, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 小莉与科技 2, server: 82.102.26.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 3, server: 91.90.123.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 小莉与科技 4, server: 82.102.26.117, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 小莉与科技 5, server: 91.90.123.115, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 小莉与科技 6, server: 91.90.123.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 小莉与科技 7, server: 91.90.123.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇮🇹 意大利 小莉与科技, server: 82.102.26.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 小莉与科技 8, server: 82.102.26.117, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 9, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 10, server: 82.102.26.117, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 小莉与科技 11, server: 91.90.123.115, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇲 US 小莉与科技 2, server: 207.244.67.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 小莉与科技 12, server: 82.102.26.237, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 小莉与科技 13, server: 91.90.123.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 小莉与科技 14, server: 82.102.26.117, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 小莉与科技 15, server: 91.90.123.115, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 小莉与科技 16, server: 82.102.26.117, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 小莉与科技 17, server: 91.90.123.115, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 小莉与科技 18, server: 91.90.123.115, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 小莉与科技 19, server: 82.102.26.117, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 小莉与科技 20, server: 91.90.123.115, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇲 US 小莉与科技 3, server: 84.17.35.118, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 小莉与科技 21, server: 91.90.123.115, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 🇸🇬 kr2-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a, server: 104.19.45.117, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-1电信@1Gbps 节点更新https://bit.ly/3uWuS7a, server: www.digitalocean.com, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-6@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.18.135.208, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-7@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.20.130.43, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-8@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.25.104.240, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-9@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.160.114, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-10@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.110.238, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-11@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.18.8.157, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-12@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.20.130.175, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-13@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.21.239.147, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-14@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.22.3.3, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-15@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.22.4.180, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-16@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.22.44.50, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-17@1Gbps节点更新https://bit.ly/3uWuS7a, server: 172.67.223.77, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-18@1Gbps节点更新https://bit.ly/3uWuS7a, server: 172.67.209.58, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-19@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.25.175.69, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-20@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.20.81.240, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-23@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.149.48, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-24@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.21.76.229, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-25@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.17.188.91, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-26@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.182.15, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-27@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.181.15, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-28@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.148.48, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇸🇬 kr2-29@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.19.23.24, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇭🇰 kr2-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG, server: 104.16.16.255, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: kr2-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s, server: 104.16.167.138, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: kr2-32 满 足  2200 Mbps带 宽 需求 速度302080 kB/s, server: 104.16.207.196, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
+  - {name: 🇰🇷 韩国-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a, server: 104.19.45.117, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-5@1Gbps节点更新https://bit.ly/3uWuS7a, server: www.garmin.com, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-6@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.18.135.208, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-7@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.20.130.43, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-8@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.25.104.240, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-9@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.160.114, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-10@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.110.238, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-11@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.18.8.157, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-12@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.20.130.175, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-13@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.21.239.147, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-14@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.22.3.3, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-15@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.22.4.180, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-16@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.22.44.50, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-17@1Gbps节点更新https://bit.ly/3uWuS7a, server: 172.67.223.77, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-18@1Gbps节点更新https://bit.ly/3uWuS7a, server: 172.67.209.58, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-19@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.25.175.69, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-20@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.20.81.240, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-23@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.149.48, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-24@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.21.76.229, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-25@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.17.188.91, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-26@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.182.15, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-27@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.181.15, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-28@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.16.148.48, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-29@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.19.23.24, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇭🇰 韩国-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG, server: 104.16.16.255, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s, server: 104.16.167.138, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 韩国-32 满 足  2200 Mbps带 宽 需求 速度302080 kB/s, server: 104.16.207.196, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇭🇰 香港01 三网优化 防墙节点，永不失联, server: zz1234.xyz, port: 25124, type: vmess, uuid: 3f26b0ea-4601-357a-be86-c20892779f36, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /ny, ws-headers: {Host: zz1234.xyz}}
+  - {name: 🇭🇰 香港06 三网优化 解锁流媒体奈飞, server: 65.52.188.17, port: 25098, type: vmess, uuid: 3f26b0ea-4601-357a-be86-c20892779f36, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /ny, ws-headers: {Host: 65.52.188.17}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a, server: 118.107.244.114, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 2, server: 118.107.244.110, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 3, server: guangzhoucm.cdn223.me, port: 964, type: vmess, uuid: b815d9cf-eead-3fc1-8c27-9c1ff3962b69, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /jiayou, ws-headers: {Host: azxjp5.xiaobaiyun.me}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 4, server: 172.64.67.46, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: icy-band-fd02.zjjcool.workers.dev}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 5, server: 118.107.244.113, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 6, server: 118.107.244.112, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 7, server: 82.102.26.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 8, server: guangzhoucm.cdn223.me, port: 958, type: vmess, uuid: b815d9cf-eead-3fc1-8c27-9c1ff3962b69, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls, ws-headers: {Host: xingazhk1.xiaobaiyun.me}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 9, server: iepl.hk.stohc.vpzcr.cn, port: 30020, type: vmess, uuid: 16b8b23c-2f42-36ac-b8bc-cbd35e3574b2, alterId: 2, cipher: auto, tls: false}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 10, server: 118.107.244.111, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 11, server: 118.107.244.113, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 12, server: guangzhoucm.cdn223.me, port: 955, type: vmess, uuid: b815d9cf-eead-3fc1-8c27-9c1ff3962b69, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls, ws-headers: {Host: xingazhk1.xiaobaiyun.me}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 13, server: 23.225.28.173, port: 443, type: vmess, uuid: da31df4d-3477-4064-884b-e6ff947ac117, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10855945.xyz}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 14, server: 152.67.225.114, port: 23456, type: vmess, uuid: 86e46276-7b5a-445e-8a66-1f3ec592fc8f, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /cs, ws-headers: {Host: 152.67.225.114}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 15, server: 104.19.36.160, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: restless-haze-599b.zjjcool.workers.dev}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 16, server: guangzhoucm.cdn223.me, port: 49003, type: vmess, uuid: b815d9cf-eead-3fc1-8c27-9c1ff3962b69, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls, ws-headers: {Host: linodedeguo.xiaobaiyun.me}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 17, server: 158.101.159.79, port: 39000, type: vmess, uuid: 9be5a864-14ad-4752-d6fc-17efdb9d7a86, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /cs, ws-headers: {Host: 158.101.159.79}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 18, server: 23.225.28.173, port: 443, type: vmess, uuid: da31df4d-3477-4064-884b-e6ff947ac117, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.10855945.xyz}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 19, server: 82.102.26.117, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 20, server: 154.84.1.116, port: 443, type: vmess, uuid: b349f65b-4b19-4255-9ee2-b679990540e7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.25936911.xyz}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 21, server: usbackup8.mars6666.com, port: 443, type: vmess, uuid: fe93a062-d13f-3958-9ebc-0c06cd32dfb0, alterId: 3, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: usbackup8.mars6666.com}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 22, server: 154.84.1.250, port: 443, type: vmess, uuid: 8f8f3146-c73d-4cb2-b030-c3bb468ff82c, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.08538470.xyz}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a_______2, server: 84.17.35.118, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a_______41, server: 148.72.169.213, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇲 美国 28, server: 172.247.18.76, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53005675.xyz}}
+  - {name: 🇬🇧 英国 12, server: 35.178.68.152, port: 47611, type: vmess, uuid: 97a4d167-b361-48b8-b004-8bc45669e334, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇳🇱 荷兰 4, server: 154.84.1.217, port: 443, type: vmess, uuid: d03a8fbf-7d51-46c3-b02d-17ff0b32e4c5, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.53103739.xyz}}
+  - {name: 🇳🇱 荷兰 5, server: 154.84.1.199, port: 443, type: vmess, uuid: 3268727a-7556-4211-8a49-2cf5c5096da4, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.79570456.xyz}}
+  - {name: 🇳🇱 荷兰 6, server: 46.182.107.147, port: 443, type: vmess, uuid: 77a48930-1e67-4a72-96be-3e584858ea4f, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.73207635.xyz}}
+  - {name: 🇳🇱 荷兰 7, server: 46.182.107.150, port: 443, type: vmess, uuid: d3243794-6fe7-437d-862f-0a6392d00f70, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.06321530.xyz}}
+  - {name: 🇭🇰 香港 2, server: 18.162.96.154, port: 80, type: vmess, uuid: 119f999c-2cf9-36cd-bf7b-08fdf66dbd45, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /hk, ws-headers: {Host: 18.162.96.154}}
   - {name: 🇭🇰 香港 3, server: 18.162.96.154, port: 80, type: vmess, uuid: 119f999c-2cf9-36cd-bf7b-08fdf66dbd45, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /hk, ws-headers: {Host: apple.com}}
-  - {name: 🇺🇲 美国 133, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇬🇧 英国 30, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 134, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇩🇪 德国 16, server: 51.89.108.65, port: 443, type: vmess, uuid: 2c21f10c-ed4a-4adc-ac34-34d65dd3ce65, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.15738743.xyz}}
+  - {name: 塞浦路斯, server: 46.182.107.39, port: 443, type: vmess, uuid: d09448d0-2a16-4288-b37d-de49928e59bd, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
+  - {name: 小莉与科技 22, server: 51.77.170.89, port: 3030, type: ss, cipher: chacha20-ietf-poly1305, password: 7FDvhjev93bs}
+  - {name: 小莉与科技 23, server: 85.10.50.164, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 23.82.11.49:37588, server: 23.82.11.49, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 143.244.42.71:31572, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 24, server: 185.44.76.188, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 198.147.22.87:31572, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 25, server: 139.28.176.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 26, server: 212.102.35.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 27, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 28, server: 91.90.123.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 198.147.22.87:40093, server: 198.147.22.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 小莉与科技 29, server: 137.59.52.107, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 小莉与科技 30, server: 85.10.50.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 198.147.22.87:33992, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 104.200.131.165:33992, server: 104.200.131.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 31, server: 137.59.52.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 32, server: 89.187.163.215, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 33, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 45.89.173.205:33992, server: 45.89.173.205, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 198.147.22.87:33148, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 84.17.35.118:45329, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 143.244.60.164:39772, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 小莉与科技 34, server: 137.59.52.107, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 小莉与科技 35, server: 85.10.50.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -340,15 +275,56 @@ proxy-groups:
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016
       - 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_1006
       - 🇨🇳 更多：http://r6f.cn/bra2j
-      - 🇺🇲 美国Cloudinnovation数据中心 6
-      - 🇳🇱 荷兰
       - 🇺🇲 美国
       - 🇨🇦 加拿大
-      - 🇷🇴 罗马尼亚
-      - 🇺🇲 美国 2
       - 🇬🇧 英国
+      - 🇺🇲 美国 2
+      - 🇨🇳 台湾
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
+      - 🇩🇪 德国 3
       - 🇺🇲 美国 3
+      - 乌克兰
+      - 乌克兰 2
+      - 🇨🇳 台湾 2
       - 🇺🇲 美国 4
+      - 🇬🇧 英国 2
+      - 🇩🇪 德国 4
+      - 🇩🇪 德国 5
+      - 🇩🇪 德国 7
+      - 葡萄牙
+      - 🇩🇪 德国 8
+      - 🇩🇪 德国 9
+      - 葡萄牙 2
+      - 葡萄牙 3
+      - 葡萄牙 4
+      - 🇬🇧 英国 3
+      - 🇩🇪 德国 10
+      - 🇩🇪 德国 11
+      - 🇬🇧 英国 4
+      - 🇩🇪 德国 12
+      - 葡萄牙 5
+      - 🇨🇦 加拿大 2
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
+      - 🇬🇧 英国 5
+      - 🇬🇧 英国 6
+      - 🇬🇧 英国 7
+      - 🇯🇵 日本 2
+      - 🇬🇧 英国 8
+      - 🇬🇧 英国 9
+      - 🇬🇧 英国 10
+      - 🇬🇧 英国 11
+      - Pool__222
+      - 🇳🇱 荷兰
+      - 🇳🇱 荷兰 2
+      - 🇷🇺 俄罗斯
+      - 🇮🇹 意大利
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
       - 🇺🇲 美国 7
@@ -356,289 +332,183 @@ proxy-groups:
       - 🇺🇲 美国 9
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
-      - 🇬🇧 英国 2
-      - 🇨🇦 加拿大 2
       - 🇺🇲 美国 12
-      - 🇨🇳 台湾
       - 🇺🇲 美国 13
+      - 🇳🇱 荷兰 3
       - 🇺🇲 美国 14
-      - 🇳🇱 荷兰 2
-      - 🇭🇰 香港
-      - 🇺🇲 美国 15
-      - 🇯🇵 日本
-      - 🇩🇪 德国
-      - 🇩🇪 德国 2
-      - 🇩🇪 德国 3
-      - 🇺🇲 美国 16
-      - 乌克兰
-      - 乌克兰 2
-      - 🇨🇳 台湾 2
-      - 🇺🇲 美国 17
-      - 🇬🇧 英国 3
-      - 🇺🇲 美国 18
-      - 🇩🇪 德国 4
-      - 🇩🇪 德国 5
-      - 🇺🇲 美国 19
-      - 🇺🇲 美国 20
-      - 🇺🇲 美国 21
-      - 🇩🇪 德国 7
-      - 🇺🇲 美国 22
-      - 葡萄牙
-      - 🇩🇪 德国 8
-      - 🇩🇪 德国 9
-      - 葡萄牙 2
-      - 葡萄牙 3
-      - 葡萄牙 4
-      - 🇬🇧 英国 4
-      - 🇩🇪 德国 10
-      - 🇩🇪 德国 11
-      - 🇬🇧 英国 5
       - 🇨🇦 加拿大 3
-      - 🇩🇪 德国 12
-      - 葡萄牙 5
-      - 🇨🇦 加拿大 4
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 6
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 10
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 13
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 14
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 21
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
-      - 🇮🇹 意大利
+      - 🇺🇲 美国 15
+      - 🇺🇲 美国 16
       - 🇮🇹 意大利 2
+      - 🇺🇲 美国 17
+      - 🇺🇲 美国 18
+      - 🇩🇪 德国 13
+      - 🇩🇪 德国 14
       - 🇮🇹 意大利 3
       - 🇮🇹 意大利 4
-      - 🇺🇲 美国 23
+      - 🇩🇪 德国 15
       - 🇮🇹 意大利 5
-      - 🇬🇧 英国 6
-      - 🇨🇦 加拿大 5
-      - 🇬🇧 英国 7
-      - 🇬🇧 英国 8
+      - 🇮🇹 意大利 6
+      - 🇮🇹 意大利 7
+      - 🇮🇹 意大利 8
+      - 🇮🇹 意大利 9
+      - 🇮🇹 意大利 10
+      - 🇺🇲 美国 19
+      - 🇮🇹 意大利 11
+      - 🇮🇹 意大利 12
+      - 🇮🇹 意大利 13
+      - 🇮🇹 意大利 14
+      - 🇺🇲 美国 20
+      - 🇷🇴 罗马尼亚
+      - 🇺🇲 美国 21
+      - 🇺🇲 美国 22
+      - 🇺🇲 美国 23
       - 🇺🇲 美国 24
       - 🇺🇲 美国 25
       - 🇺🇲 美国 26
       - 🇺🇲 美国 27
+      - 🇩🇪 德国 小莉与科技
+      - 小莉频道
+      - 小莉频道 2
+      - 🇺🇲 US 小莉与科技
+      - 小莉与科技
+      - 小莉与科技 2
+      - 小莉与科技 3
+      - 小莉与科技 4
+      - 小莉与科技 5
+      - 小莉与科技 6
+      - 小莉与科技 7
+      - 🇮🇹 意大利 小莉与科技
+      - 小莉与科技 8
+      - 小莉与科技 9
+      - 小莉与科技 10
+      - 小莉与科技 11
+      - 🇺🇲 US 小莉与科技 2
+      - 小莉与科技 12
+      - 小莉与科技 13
+      - 小莉与科技 14
+      - 小莉与科技 15
+      - 小莉与科技 16
+      - 小莉与科技 17
+      - 小莉与科技 18
+      - 小莉与科技 19
+      - 小莉与科技 20
+      - 🇺🇲 US 小莉与科技 3
+      - 小莉与科技 21
+      - 🇸🇬 kr2-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-1电信@1Gbps 节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-6@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-7@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-8@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-9@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-10@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-11@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-12@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-13@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-14@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-15@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-16@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-17@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-18@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-19@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-20@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-23@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-24@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-25@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-26@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-27@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-28@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-29@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇭🇰 kr2-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
+      - kr2-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - kr2-32 满 足  2200 Mbps带 宽 需求 速度302080 kB/s
+      - 🇰🇷 韩国-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-5@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-6@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-7@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-8@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-9@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-10@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-11@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-12@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-13@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-14@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-15@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-16@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-17@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-18@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-19@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-20@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-23@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-24@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-25@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-26@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-27@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-28@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-29@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇭🇰 韩国-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
+      - 🇰🇷 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - 🇰🇷 韩国-32 满 足  2200 Mbps带 宽 需求 速度302080 kB/s
+      - 🇭🇰 香港01 三网优化 防墙节点，永不失联
+      - 🇭🇰 香港06 三网优化 解锁流媒体奈飞
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 2
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 3
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 4
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 5
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 6
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 7
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 8
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 9
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 10
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 11
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 12
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 13
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 14
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 15
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 16
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 17
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 18
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 19
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 20
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 21
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 22
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a_______2
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a_______41
       - 🇺🇲 美国 28
-      - 🇺🇲 美国 29
-      - 🇺🇲 美国 30
-      - 🇺🇲 美国 31
-      - 🇺🇲 美国 32
-      - 🇩🇪 德国 13
-      - 🇺🇲 美国 33
-      - 🇺🇲 美国 34
-      - 🇺🇲 美国 35
-      - 🇺🇲 美国 36
-      - 🇬🇧 英国 9
-      - 🇺🇲 美国 37
-      - 🇺🇲 美国 38
-      - 🇺🇲 美国 39
-      - 🇺🇲 美国 40
-      - 🇬🇧 英国 10
-      - 🇬🇧 英国 11
-      - 🇯🇵 日本 2
-      - 🇺🇲 美国 41
-      - 🇺🇲 美国 42
-      - 🇺🇲 美国 43
       - 🇬🇧 英国 12
-      - 🇬🇧 英国 13
-      - 🇺🇲 美国 44
-      - 🇬🇧 英国 14
-      - 🇬🇧 英国 15
-      - _237
-      - 🇺🇲 美国 45
-      - 🇬🇧 英国 16
-      - 🇷🇺 俄罗斯
-      - 🇳🇱 荷兰 3
       - 🇳🇱 荷兰 4
       - 🇳🇱 荷兰 5
-      - Pool__222
-      - 塞浦路斯
       - 🇳🇱 荷兰 6
-      - 🇺🇲 美国 46
       - 🇳🇱 荷兰 7
-      - 🇷🇴 罗马尼亚 2
-      - 🇫🇷 法国
-      - 🇬🇧 英国 17
-      - 🇬🇧 英国 18
-      - 🇳🇱 荷兰 8
-      - 🇮🇹 意大利 6
-      - 🇳🇱 荷兰 9
-      - 🇳🇱 荷兰 10
-      - 塞浦路斯 2
-      - 🇮🇹 意大利 7
-      - 🇳🇱 荷兰 11
-      - 🇳🇱 荷兰 12
-      - 🇮🇹 意大利 8
-      - 🇺🇲 美国 47
-      - 🇷🇺 俄罗斯 2
-      - 🇮🇹 意大利 9
-      - 🇺🇲 美国 48
-      - 🇮🇹 意大利 10
-      - 🇬🇧 英国 19
-      - 🇺🇲 美国 49
-      - 🇺🇲 美国 50
-      - 🇬🇧 英国 20
-      - 🇺🇲 美国 51
-      - 🇺🇲 美国 52
-      - 🇺🇲 美国 53
-      - 🇺🇲 美国 54
-      - 🇺🇲 美国 55
-      - 🇺🇲 美国 56
-      - 🇺🇲 美国 57
-      - 🇺🇲 美国 58
-      - 🇺🇲 美国 59
-      - 🇺🇲 美国 60
-      - 🇺🇲 美国 61
-      - 🇺🇲 美国 62
-      - 🇺🇲 美国 63
-      - 🇺🇲 美国 64
-      - 🇺🇲 美国 65
-      - 🇺🇲 美国 66
-      - 🇺🇲 美国 67
-      - 🇺🇲 美国 68
-      - 🇺🇲 美国 69
-      - 🇺🇲 美国 70
-      - 🇺🇲 美国 71
-      - 🇺🇲 美国 72
-      - 🇺🇲 美国 73
-      - 🇺🇲 美国 74
-      - 🇺🇲 美国 75
-      - 🇺🇲 美国 76
-      - 🇺🇲 美国 77
-      - 🇺🇲 美国 78
-      - 🇺🇲 美国 79
-      - 🇳🇱 荷兰 13
-      - 🇷🇴 罗马尼亚 3
-      - 🇺🇲 美国 80
-      - 🇺🇲 美国 81
-      - 🇳🇱 荷兰 14
-      - 🇺🇲 美国 82
-      - 🇺🇲 美国 83
-      - 🇺🇲 美国 84
-      - 🇺🇲 美国 85
-      - 🇺🇲 美国 86
-      - 克罗地亚
-      - 🇺🇲 美国 87
-      - 🇳🇱 荷兰 15
-      - 🇺🇲 美国 88
-      - 🇺🇲 美国 89
-      - 🇳🇱 荷兰 16
-      - 🇬🇧 英国 21
-      - 🇺🇲 美国 90
-      - 🇺🇲 美国 91
-      - 🇺🇲 美国 92
-      - 克罗地亚 2
-      - 🇨🇦 加拿大 6
-      - 🇺🇲 美国 93
-      - 🇺🇲 美国 94
-      - 🇫🇷 法国 2
-      - 🇺🇲 美国 95
-      - 塞浦路斯 3
-      - 🇮🇹 意大利 11
-      - 🇺🇲 美国 96
-      - 🇺🇲 美国 97
-      - 🇩🇪 德国 14
-      - 🇺🇲 美国 98
-      - 🇺🇲 美国 99
-      - 🇬🇧 英国 22
-      - 🇬🇧 英国 23
-      - 🇮🇹 意大利 12
-      - 🇮🇹 意大利 13
-      - 🇮🇹 意大利 14
-      - 🇮🇹 意大利 15
-      - 🇺🇲 美国 100
-      - 🇬🇧 英国 24
-      - 🇩🇪 德国 15
-      - 🇮🇹 意大利 16
-      - 🇺🇲 美国 101
-      - 🇬🇧 英国 25
-      - 🇺🇲 美国 102
-      - 🇺🇲 美国 103
-      - 🇮🇹 意大利 17
-      - 🇺🇲 美国 104
-      - 🇺🇲 美国 105
-      - 🇺🇲 美国 106
-      - 🇮🇹 意大利 18
-      - 🇮🇹 意大利 19
-      - 🇺🇲 美国 107
-      - 🇺🇲 美国 108
       - 🇭🇰 香港 2
-      - 🇳🇱 荷兰 17
-      - 🇷🇴 罗马尼亚 4
-      - 🇺🇲 美国 109
-      - 🇳🇱 荷兰 18
-      - 🇺🇲 美国 110
-      - 🇩🇪 德国 16
-      - 🇩🇪 德国 17
-      - 🇳🇱 荷兰 19
-      - 🇮🇹 意大利 20
-      - 🇫🇷 法国 3
-      - 🇮🇹 意大利 21
-      - 🇮🇹 意大利 22
-      - 🇮🇹 意大利 23
-      - 🇮🇹 意大利 24
-      - 🇮🇹 意大利 25
-      - 🇮🇹 意大利 26
-      - 🇩🇪 德国 18
-      - 🇮🇹 意大利 27
-      - 🇺🇲 美国 111
-      - 🇬🇧 英国 26
-      - 🇮🇹 意大利 28
-      - 🇺🇲 美国 112
-      - 🇮🇹 意大利 29
-      - 🇮🇹 意大利 30
-      - 🇮🇹 意大利 31
-      - 🇺🇲 美国 113
-      - 🇮🇹 意大利 32
-      - 🇮🇹 意大利 33
-      - 🇺🇲 美国 114
-      - 西班牙
-      - 🇮🇹 意大利 34
-      - 🇺🇲 美国 115
-      - 🇮🇹 意大利 35
-      - 🇮🇹 意大利 36
-      - 🇮🇹 意大利 37
-      - 🇮🇹 意大利 38
-      - 🇺🇲 美国 116
-      - 🇳🇱 荷兰 20
-      - 🇺🇲 美国 117
-      - 🇮🇹 意大利 39
-      - 🇮🇹 意大利 40
-      - 🇮🇹 意大利 41
-      - 🇺🇲 美国 118
-      - 🇮🇹 意大利 42
-      - 塞浦路斯 4
-      - 🇬🇧 英国 27
-      - 🇳🇱 荷兰 21
-      - 🇬🇧 英国 28
-      - 🇮🇹 意大利 43
-      - 🇮🇹 意大利 44
-      - 🇮🇹 意大利 45
-      - 🇺🇲 美国 119
-      - 🇺🇲 美国 120
-      - 🇺🇲 美国 121
-      - 🇷🇴 罗马尼亚 5
-      - 🇺🇲 美国 122
-      - 🇺🇲 美国 123
-      - 🇬🇧 英国 29
-      - 🇺🇲 美国 124
-      - 🇳🇱 荷兰 22
-      - 🇺🇲 美国 125
-      - 🇺🇲 美国 126
-      - 🇺🇲 美国 127
-      - 🇳🇱 荷兰 23
-      - 🇺🇲 美国 128
-      - 🇺🇲 美国 129
-      - 🇺🇲 美国 130
-      - 🇺🇲 美国 131
-      - 🇺🇲 美国 132
       - 🇭🇰 香港 3
-      - 🇺🇲 美国 133
-      - 🇬🇧 英国 30
-      - 🇺🇲 美国 134
+      - 🇩🇪 德国 16
+      - 塞浦路斯
+      - 小莉与科技 22
+      - 小莉与科技 23
+      - 23.82.11.49:37588
+      - 143.244.42.71:31572
+      - 小莉与科技 24
+      - 198.147.22.87:31572
+      - 小莉与科技 25
+      - 小莉与科技 26
+      - 小莉与科技 27
+      - 小莉与科技 28
+      - 198.147.22.87:40093
+      - 小莉与科技 29
+      - 小莉与科技 30
+      - 198.147.22.87:33992
+      - 104.200.131.165:33992
+      - 小莉与科技 31
+      - 小莉与科技 32
+      - 小莉与科技 33
+      - 45.89.173.205:33992
+      - 198.147.22.87:33148
+      - 84.17.35.118:45329
+      - 143.244.60.164:39772
+      - 小莉与科技 34
+      - 小莉与科技 35
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -655,15 +525,56 @@ proxy-groups:
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016
       - 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_1006
       - 🇨🇳 更多：http://r6f.cn/bra2j
-      - 🇺🇲 美国Cloudinnovation数据中心 6
-      - 🇳🇱 荷兰
       - 🇺🇲 美国
       - 🇨🇦 加拿大
-      - 🇷🇴 罗马尼亚
-      - 🇺🇲 美国 2
       - 🇬🇧 英国
+      - 🇺🇲 美国 2
+      - 🇨🇳 台湾
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇩🇪 德国
+      - 🇩🇪 德国 2
+      - 🇩🇪 德国 3
       - 🇺🇲 美国 3
+      - 乌克兰
+      - 乌克兰 2
+      - 🇨🇳 台湾 2
       - 🇺🇲 美国 4
+      - 🇬🇧 英国 2
+      - 🇩🇪 德国 4
+      - 🇩🇪 德国 5
+      - 🇩🇪 德国 7
+      - 葡萄牙
+      - 🇩🇪 德国 8
+      - 🇩🇪 德国 9
+      - 葡萄牙 2
+      - 葡萄牙 3
+      - 葡萄牙 4
+      - 🇬🇧 英国 3
+      - 🇩🇪 德国 10
+      - 🇩🇪 德国 11
+      - 🇬🇧 英国 4
+      - 🇩🇪 德国 12
+      - 葡萄牙 5
+      - 🇨🇦 加拿大 2
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
+      - 🇬🇧 英国 5
+      - 🇬🇧 英国 6
+      - 🇬🇧 英国 7
+      - 🇯🇵 日本 2
+      - 🇬🇧 英国 8
+      - 🇬🇧 英国 9
+      - 🇬🇧 英国 10
+      - 🇬🇧 英国 11
+      - Pool__222
+      - 🇳🇱 荷兰
+      - 🇳🇱 荷兰 2
+      - 🇷🇺 俄罗斯
+      - 🇮🇹 意大利
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
       - 🇺🇲 美国 7
@@ -671,289 +582,183 @@ proxy-groups:
       - 🇺🇲 美国 9
       - 🇺🇲 美国 10
       - 🇺🇲 美国 11
-      - 🇬🇧 英国 2
-      - 🇨🇦 加拿大 2
       - 🇺🇲 美国 12
-      - 🇨🇳 台湾
       - 🇺🇲 美国 13
+      - 🇳🇱 荷兰 3
       - 🇺🇲 美国 14
-      - 🇳🇱 荷兰 2
-      - 🇭🇰 香港
-      - 🇺🇲 美国 15
-      - 🇯🇵 日本
-      - 🇩🇪 德国
-      - 🇩🇪 德国 2
-      - 🇩🇪 德国 3
-      - 🇺🇲 美国 16
-      - 乌克兰
-      - 乌克兰 2
-      - 🇨🇳 台湾 2
-      - 🇺🇲 美国 17
-      - 🇬🇧 英国 3
-      - 🇺🇲 美国 18
-      - 🇩🇪 德国 4
-      - 🇩🇪 德国 5
-      - 🇺🇲 美国 19
-      - 🇺🇲 美国 20
-      - 🇺🇲 美国 21
-      - 🇩🇪 德国 7
-      - 🇺🇲 美国 22
-      - 葡萄牙
-      - 🇩🇪 德国 8
-      - 🇩🇪 德国 9
-      - 葡萄牙 2
-      - 葡萄牙 3
-      - 葡萄牙 4
-      - 🇬🇧 英国 4
-      - 🇩🇪 德国 10
-      - 🇩🇪 德国 11
-      - 🇬🇧 英国 5
       - 🇨🇦 加拿大 3
-      - 🇩🇪 德国 12
-      - 葡萄牙 5
-      - 🇨🇦 加拿大 4
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 6
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 10
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 13
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 14
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 21
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
-      - 🇮🇹 意大利
+      - 🇺🇲 美国 15
+      - 🇺🇲 美国 16
       - 🇮🇹 意大利 2
+      - 🇺🇲 美国 17
+      - 🇺🇲 美国 18
+      - 🇩🇪 德国 13
+      - 🇩🇪 德国 14
       - 🇮🇹 意大利 3
       - 🇮🇹 意大利 4
-      - 🇺🇲 美国 23
+      - 🇩🇪 德国 15
       - 🇮🇹 意大利 5
-      - 🇬🇧 英国 6
-      - 🇨🇦 加拿大 5
-      - 🇬🇧 英国 7
-      - 🇬🇧 英国 8
+      - 🇮🇹 意大利 6
+      - 🇮🇹 意大利 7
+      - 🇮🇹 意大利 8
+      - 🇮🇹 意大利 9
+      - 🇮🇹 意大利 10
+      - 🇺🇲 美国 19
+      - 🇮🇹 意大利 11
+      - 🇮🇹 意大利 12
+      - 🇮🇹 意大利 13
+      - 🇮🇹 意大利 14
+      - 🇺🇲 美国 20
+      - 🇷🇴 罗马尼亚
+      - 🇺🇲 美国 21
+      - 🇺🇲 美国 22
+      - 🇺🇲 美国 23
       - 🇺🇲 美国 24
       - 🇺🇲 美国 25
       - 🇺🇲 美国 26
       - 🇺🇲 美国 27
+      - 🇩🇪 德国 小莉与科技
+      - 小莉频道
+      - 小莉频道 2
+      - 🇺🇲 US 小莉与科技
+      - 小莉与科技
+      - 小莉与科技 2
+      - 小莉与科技 3
+      - 小莉与科技 4
+      - 小莉与科技 5
+      - 小莉与科技 6
+      - 小莉与科技 7
+      - 🇮🇹 意大利 小莉与科技
+      - 小莉与科技 8
+      - 小莉与科技 9
+      - 小莉与科技 10
+      - 小莉与科技 11
+      - 🇺🇲 US 小莉与科技 2
+      - 小莉与科技 12
+      - 小莉与科技 13
+      - 小莉与科技 14
+      - 小莉与科技 15
+      - 小莉与科技 16
+      - 小莉与科技 17
+      - 小莉与科技 18
+      - 小莉与科技 19
+      - 小莉与科技 20
+      - 🇺🇲 US 小莉与科技 3
+      - 小莉与科技 21
+      - 🇸🇬 kr2-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-1电信@1Gbps 节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-6@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-7@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-8@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-9@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-10@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-11@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-12@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-13@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-14@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-15@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-16@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-17@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-18@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-19@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-20@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-23@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-24@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-25@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-26@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-27@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-28@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 kr2-29@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇭🇰 kr2-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
+      - kr2-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - kr2-32 满 足  2200 Mbps带 宽 需求 速度302080 kB/s
+      - 🇰🇷 韩国-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-5@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-6@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-7@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-8@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-9@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-10@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-11@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-12@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-13@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-14@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-15@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-16@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-17@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-18@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-19@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-20@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-23@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-24@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-25@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-26@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-27@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-28@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-29@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇭🇰 韩国-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
+      - 🇰🇷 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - 🇰🇷 韩国-32 满 足  2200 Mbps带 宽 需求 速度302080 kB/s
+      - 🇭🇰 香港01 三网优化 防墙节点，永不失联
+      - 🇭🇰 香港06 三网优化 解锁流媒体奈飞
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 2
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 3
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 4
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 5
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 6
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 7
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 8
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 9
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 10
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 11
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 12
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 13
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 14
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 15
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 16
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 17
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 18
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 19
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 20
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 21
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 22
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a_______2
+      - 🇸🇬 节点更新https://bit.ly/3uWuS7a_______41
       - 🇺🇲 美国 28
-      - 🇺🇲 美国 29
-      - 🇺🇲 美国 30
-      - 🇺🇲 美国 31
-      - 🇺🇲 美国 32
-      - 🇩🇪 德国 13
-      - 🇺🇲 美国 33
-      - 🇺🇲 美国 34
-      - 🇺🇲 美国 35
-      - 🇺🇲 美国 36
-      - 🇬🇧 英国 9
-      - 🇺🇲 美国 37
-      - 🇺🇲 美国 38
-      - 🇺🇲 美国 39
-      - 🇺🇲 美国 40
-      - 🇬🇧 英国 10
-      - 🇬🇧 英国 11
-      - 🇯🇵 日本 2
-      - 🇺🇲 美国 41
-      - 🇺🇲 美国 42
-      - 🇺🇲 美国 43
       - 🇬🇧 英国 12
-      - 🇬🇧 英国 13
-      - 🇺🇲 美国 44
-      - 🇬🇧 英国 14
-      - 🇬🇧 英国 15
-      - _237
-      - 🇺🇲 美国 45
-      - 🇬🇧 英国 16
-      - 🇷🇺 俄罗斯
-      - 🇳🇱 荷兰 3
       - 🇳🇱 荷兰 4
       - 🇳🇱 荷兰 5
-      - Pool__222
-      - 塞浦路斯
       - 🇳🇱 荷兰 6
-      - 🇺🇲 美国 46
       - 🇳🇱 荷兰 7
-      - 🇷🇴 罗马尼亚 2
-      - 🇫🇷 法国
-      - 🇬🇧 英国 17
-      - 🇬🇧 英国 18
-      - 🇳🇱 荷兰 8
-      - 🇮🇹 意大利 6
-      - 🇳🇱 荷兰 9
-      - 🇳🇱 荷兰 10
-      - 塞浦路斯 2
-      - 🇮🇹 意大利 7
-      - 🇳🇱 荷兰 11
-      - 🇳🇱 荷兰 12
-      - 🇮🇹 意大利 8
-      - 🇺🇲 美国 47
-      - 🇷🇺 俄罗斯 2
-      - 🇮🇹 意大利 9
-      - 🇺🇲 美国 48
-      - 🇮🇹 意大利 10
-      - 🇬🇧 英国 19
-      - 🇺🇲 美国 49
-      - 🇺🇲 美国 50
-      - 🇬🇧 英国 20
-      - 🇺🇲 美国 51
-      - 🇺🇲 美国 52
-      - 🇺🇲 美国 53
-      - 🇺🇲 美国 54
-      - 🇺🇲 美国 55
-      - 🇺🇲 美国 56
-      - 🇺🇲 美国 57
-      - 🇺🇲 美国 58
-      - 🇺🇲 美国 59
-      - 🇺🇲 美国 60
-      - 🇺🇲 美国 61
-      - 🇺🇲 美国 62
-      - 🇺🇲 美国 63
-      - 🇺🇲 美国 64
-      - 🇺🇲 美国 65
-      - 🇺🇲 美国 66
-      - 🇺🇲 美国 67
-      - 🇺🇲 美国 68
-      - 🇺🇲 美国 69
-      - 🇺🇲 美国 70
-      - 🇺🇲 美国 71
-      - 🇺🇲 美国 72
-      - 🇺🇲 美国 73
-      - 🇺🇲 美国 74
-      - 🇺🇲 美国 75
-      - 🇺🇲 美国 76
-      - 🇺🇲 美国 77
-      - 🇺🇲 美国 78
-      - 🇺🇲 美国 79
-      - 🇳🇱 荷兰 13
-      - 🇷🇴 罗马尼亚 3
-      - 🇺🇲 美国 80
-      - 🇺🇲 美国 81
-      - 🇳🇱 荷兰 14
-      - 🇺🇲 美国 82
-      - 🇺🇲 美国 83
-      - 🇺🇲 美国 84
-      - 🇺🇲 美国 85
-      - 🇺🇲 美国 86
-      - 克罗地亚
-      - 🇺🇲 美国 87
-      - 🇳🇱 荷兰 15
-      - 🇺🇲 美国 88
-      - 🇺🇲 美国 89
-      - 🇳🇱 荷兰 16
-      - 🇬🇧 英国 21
-      - 🇺🇲 美国 90
-      - 🇺🇲 美国 91
-      - 🇺🇲 美国 92
-      - 克罗地亚 2
-      - 🇨🇦 加拿大 6
-      - 🇺🇲 美国 93
-      - 🇺🇲 美国 94
-      - 🇫🇷 法国 2
-      - 🇺🇲 美国 95
-      - 塞浦路斯 3
-      - 🇮🇹 意大利 11
-      - 🇺🇲 美国 96
-      - 🇺🇲 美国 97
-      - 🇩🇪 德国 14
-      - 🇺🇲 美国 98
-      - 🇺🇲 美国 99
-      - 🇬🇧 英国 22
-      - 🇬🇧 英国 23
-      - 🇮🇹 意大利 12
-      - 🇮🇹 意大利 13
-      - 🇮🇹 意大利 14
-      - 🇮🇹 意大利 15
-      - 🇺🇲 美国 100
-      - 🇬🇧 英国 24
-      - 🇩🇪 德国 15
-      - 🇮🇹 意大利 16
-      - 🇺🇲 美国 101
-      - 🇬🇧 英国 25
-      - 🇺🇲 美国 102
-      - 🇺🇲 美国 103
-      - 🇮🇹 意大利 17
-      - 🇺🇲 美国 104
-      - 🇺🇲 美国 105
-      - 🇺🇲 美国 106
-      - 🇮🇹 意大利 18
-      - 🇮🇹 意大利 19
-      - 🇺🇲 美国 107
-      - 🇺🇲 美国 108
       - 🇭🇰 香港 2
-      - 🇳🇱 荷兰 17
-      - 🇷🇴 罗马尼亚 4
-      - 🇺🇲 美国 109
-      - 🇳🇱 荷兰 18
-      - 🇺🇲 美国 110
-      - 🇩🇪 德国 16
-      - 🇩🇪 德国 17
-      - 🇳🇱 荷兰 19
-      - 🇮🇹 意大利 20
-      - 🇫🇷 法国 3
-      - 🇮🇹 意大利 21
-      - 🇮🇹 意大利 22
-      - 🇮🇹 意大利 23
-      - 🇮🇹 意大利 24
-      - 🇮🇹 意大利 25
-      - 🇮🇹 意大利 26
-      - 🇩🇪 德国 18
-      - 🇮🇹 意大利 27
-      - 🇺🇲 美国 111
-      - 🇬🇧 英国 26
-      - 🇮🇹 意大利 28
-      - 🇺🇲 美国 112
-      - 🇮🇹 意大利 29
-      - 🇮🇹 意大利 30
-      - 🇮🇹 意大利 31
-      - 🇺🇲 美国 113
-      - 🇮🇹 意大利 32
-      - 🇮🇹 意大利 33
-      - 🇺🇲 美国 114
-      - 西班牙
-      - 🇮🇹 意大利 34
-      - 🇺🇲 美国 115
-      - 🇮🇹 意大利 35
-      - 🇮🇹 意大利 36
-      - 🇮🇹 意大利 37
-      - 🇮🇹 意大利 38
-      - 🇺🇲 美国 116
-      - 🇳🇱 荷兰 20
-      - 🇺🇲 美国 117
-      - 🇮🇹 意大利 39
-      - 🇮🇹 意大利 40
-      - 🇮🇹 意大利 41
-      - 🇺🇲 美国 118
-      - 🇮🇹 意大利 42
-      - 塞浦路斯 4
-      - 🇬🇧 英国 27
-      - 🇳🇱 荷兰 21
-      - 🇬🇧 英国 28
-      - 🇮🇹 意大利 43
-      - 🇮🇹 意大利 44
-      - 🇮🇹 意大利 45
-      - 🇺🇲 美国 119
-      - 🇺🇲 美国 120
-      - 🇺🇲 美国 121
-      - 🇷🇴 罗马尼亚 5
-      - 🇺🇲 美国 122
-      - 🇺🇲 美国 123
-      - 🇬🇧 英国 29
-      - 🇺🇲 美国 124
-      - 🇳🇱 荷兰 22
-      - 🇺🇲 美国 125
-      - 🇺🇲 美国 126
-      - 🇺🇲 美国 127
-      - 🇳🇱 荷兰 23
-      - 🇺🇲 美国 128
-      - 🇺🇲 美国 129
-      - 🇺🇲 美国 130
-      - 🇺🇲 美国 131
-      - 🇺🇲 美国 132
       - 🇭🇰 香港 3
-      - 🇺🇲 美国 133
-      - 🇬🇧 英国 30
-      - 🇺🇲 美国 134
+      - 🇩🇪 德国 16
+      - 塞浦路斯
+      - 小莉与科技 22
+      - 小莉与科技 23
+      - 23.82.11.49:37588
+      - 143.244.42.71:31572
+      - 小莉与科技 24
+      - 198.147.22.87:31572
+      - 小莉与科技 25
+      - 小莉与科技 26
+      - 小莉与科技 27
+      - 小莉与科技 28
+      - 198.147.22.87:40093
+      - 小莉与科技 29
+      - 小莉与科技 30
+      - 198.147.22.87:33992
+      - 104.200.131.165:33992
+      - 小莉与科技 31
+      - 小莉与科技 32
+      - 小莉与科技 33
+      - 45.89.173.205:33992
+      - 198.147.22.87:33148
+      - 84.17.35.118:45329
+      - 143.244.60.164:39772
+      - 小莉与科技 34
+      - 小莉与科技 35
   - name: 📲 电报消息
     type: select
     proxies:
@@ -1095,6 +900,7 @@ proxy-groups:
       - DIRECT
       - 🚀 节点选择
       - ♻️ 自动选择
+      - 🇭🇰 香港06 三网优化 解锁流媒体奈飞
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1133,6 +939,10 @@ proxy-groups:
       - 🇭🇰 HK_2123
       - 🇭🇰 Relay_🇨🇳CN-🇭🇰HK_1016
       - 🇭🇰 香港
+      - 🇭🇰 kr2-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
+      - 🇭🇰 韩国-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
+      - 🇭🇰 香港01 三网优化 防墙节点，永不失联
+      - 🇭🇰 香港06 三网优化 解锁流媒体奈飞
       - 🇭🇰 香港 2
       - 🇭🇰 香港 3
   - name: 🇯🇵 日本节点
@@ -1151,11 +961,15 @@ proxy-groups:
     tolerance: 150
     proxies:
       - 🇯🇵 Relay_🇺🇸US-🇯🇵JP_4830
-      - 🇺🇲 美国Cloudinnovation数据中心 6
       - 🇺🇲 美国
       - 🇺🇲 美国 2
       - 🇺🇲 美国 3
       - 🇺🇲 美国 4
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
+      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
+      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
       - 🇺🇲 美国 5
       - 🇺🇲 美国 6
       - 🇺🇲 美国 7
@@ -1174,128 +988,15 @@ proxy-groups:
       - 🇺🇲 美国 20
       - 🇺🇲 美国 21
       - 🇺🇲 美国 22
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 1
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 2
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 3
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶Coperation Coloction数据中心 6
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 10
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 13
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 14
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 16
-      - 🇺🇲 github.com/freefq - 美国Cloudinnovation数据中心 21
-      - 🇺🇲 github.com/freefq - 美国加利福尼亚州洛杉矶IT7网络 26
       - 🇺🇲 美国 23
       - 🇺🇲 美国 24
       - 🇺🇲 美国 25
       - 🇺🇲 美国 26
       - 🇺🇲 美国 27
+      - 🇺🇲 US 小莉与科技
+      - 🇺🇲 US 小莉与科技 2
+      - 🇺🇲 US 小莉与科技 3
       - 🇺🇲 美国 28
-      - 🇺🇲 美国 29
-      - 🇺🇲 美国 30
-      - 🇺🇲 美国 31
-      - 🇺🇲 美国 32
-      - 🇺🇲 美国 33
-      - 🇺🇲 美国 34
-      - 🇺🇲 美国 35
-      - 🇺🇲 美国 36
-      - 🇺🇲 美国 37
-      - 🇺🇲 美国 38
-      - 🇺🇲 美国 39
-      - 🇺🇲 美国 40
-      - 🇺🇲 美国 41
-      - 🇺🇲 美国 42
-      - 🇺🇲 美国 43
-      - 🇺🇲 美国 44
-      - 🇺🇲 美国 45
-      - 🇺🇲 美国 46
-      - 🇺🇲 美国 47
-      - 🇺🇲 美国 48
-      - 🇺🇲 美国 49
-      - 🇺🇲 美国 50
-      - 🇺🇲 美国 51
-      - 🇺🇲 美国 52
-      - 🇺🇲 美国 53
-      - 🇺🇲 美国 54
-      - 🇺🇲 美国 55
-      - 🇺🇲 美国 56
-      - 🇺🇲 美国 57
-      - 🇺🇲 美国 58
-      - 🇺🇲 美国 59
-      - 🇺🇲 美国 60
-      - 🇺🇲 美国 61
-      - 🇺🇲 美国 62
-      - 🇺🇲 美国 63
-      - 🇺🇲 美国 64
-      - 🇺🇲 美国 65
-      - 🇺🇲 美国 66
-      - 🇺🇲 美国 67
-      - 🇺🇲 美国 68
-      - 🇺🇲 美国 69
-      - 🇺🇲 美国 70
-      - 🇺🇲 美国 71
-      - 🇺🇲 美国 72
-      - 🇺🇲 美国 73
-      - 🇺🇲 美国 74
-      - 🇺🇲 美国 75
-      - 🇺🇲 美国 76
-      - 🇺🇲 美国 77
-      - 🇺🇲 美国 78
-      - 🇺🇲 美国 79
-      - 🇺🇲 美国 80
-      - 🇺🇲 美国 81
-      - 🇺🇲 美国 82
-      - 🇺🇲 美国 83
-      - 🇺🇲 美国 84
-      - 🇺🇲 美国 85
-      - 🇺🇲 美国 86
-      - 🇺🇲 美国 87
-      - 🇺🇲 美国 88
-      - 🇺🇲 美国 89
-      - 🇺🇲 美国 90
-      - 🇺🇲 美国 91
-      - 🇺🇲 美国 92
-      - 🇺🇲 美国 93
-      - 🇺🇲 美国 94
-      - 🇺🇲 美国 95
-      - 🇺🇲 美国 96
-      - 🇺🇲 美国 97
-      - 🇺🇲 美国 98
-      - 🇺🇲 美国 99
-      - 🇺🇲 美国 100
-      - 🇺🇲 美国 101
-      - 🇺🇲 美国 102
-      - 🇺🇲 美国 103
-      - 🇺🇲 美国 104
-      - 🇺🇲 美国 105
-      - 🇺🇲 美国 106
-      - 🇺🇲 美国 107
-      - 🇺🇲 美国 108
-      - 🇺🇲 美国 109
-      - 🇺🇲 美国 110
-      - 🇺🇲 美国 111
-      - 🇺🇲 美国 112
-      - 🇺🇲 美国 113
-      - 🇺🇲 美国 114
-      - 🇺🇲 美国 115
-      - 🇺🇲 美国 116
-      - 🇺🇲 美国 117
-      - 🇺🇲 美国 118
-      - 🇺🇲 美国 119
-      - 🇺🇲 美国 120
-      - 🇺🇲 美国 121
-      - 🇺🇲 美国 122
-      - 🇺🇲 美国 123
-      - 🇺🇲 美国 124
-      - 🇺🇲 美国 125
-      - 🇺🇲 美国 126
-      - 🇺🇲 美国 127
-      - 🇺🇲 美国 128
-      - 🇺🇲 美国 129
-      - 🇺🇲 美国 130
-      - 🇺🇲 美国 131
-      - 🇺🇲 美国 132
-      - 🇺🇲 美国 133
-      - 🇺🇲 美国 134
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1319,11 +1020,37 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - DIRECT
+      - 🇰🇷 韩国-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-5@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-6@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-7@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-8@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-9@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-10@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-11@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-12@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-13@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-14@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-15@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-16@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-17@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-18@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-19@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-20@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-23@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-24@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-25@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-26@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-27@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-28@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇰🇷 韩国-29@1Gbps节点更新https://bit.ly/3uWuS7a
+      - 🇭🇰 韩国-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
+      - 🇰🇷 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - 🇰🇷 韩国-32 满 足  2200 Mbps带 宽 需求 速度302080 kB/s
   - name: 🎥 奈飞节点
     type: select
     proxies:
-      - DIRECT
+      - 🇭🇰 香港06 三网优化 解锁流媒体奈飞
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
