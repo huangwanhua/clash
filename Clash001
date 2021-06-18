@@ -14,16 +14,9 @@ proxies:
   - {name: 🇳🇱 荷兰, server: 193.32.210.230, port: 35870, type: ss, cipher: aes-256-gcm, password: VFqcjsifsjyC}
   - {name: 🇮🇹 意大利, server: 82.102.26.117, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
   - {name: 小莉频道, server: 51.195.149.30, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: JSvsHhHYIuVG}
-  - {name: 小莉与科技, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: 小莉与科技 2, server: 91.90.123.115, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-  - {name: 小莉与科技 3, server: 91.90.123.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 小莉与科技 4, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 小莉与科技 5, server: 91.90.123.115, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 小莉与科技 6, server: 91.90.123.115, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: 小莉与科技 7, server: 91.90.123.115, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 小莉与科技 8, server: 91.90.123.115, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 小莉与科技 9, server: 91.90.123.115, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 小莉与科技 10, server: 91.90.123.115, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 小莉与科技, server: 91.90.123.115, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 小莉与科技 2, server: 91.90.123.115, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 小莉与科技 3, server: 91.90.123.115, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
   - {name: 🇸🇬 kr2-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a, server: 104.19.45.117, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
   - {name: 🇸🇬 kr2-1电信@1Gbps 节点更新https://bit.ly/3uWuS7a, server: www.digitalocean.com, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
   - {name: 🇸🇬 kr2-6@1Gbps节点更新https://bit.ly/3uWuS7a, server: 104.18.135.208, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
@@ -74,77 +67,98 @@ proxies:
   - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 2, server: 118.107.244.110, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 3, server: 118.107.244.113, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 4, server: 118.107.244.112, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 5, server: guangzhoucm.cdn223.me, port: 958, type: vmess, uuid: b815d9cf-eead-3fc1-8c27-9c1ff3962b69, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls, ws-headers: {Host: xingazhk1.xiaobaiyun.me}}
-  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 6, server: 118.107.244.111, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 7, server: 118.107.244.113, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 8, server: guangzhoucm.cdn223.me, port: 955, type: vmess, uuid: b815d9cf-eead-3fc1-8c27-9c1ff3962b69, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls, ws-headers: {Host: xingazhk1.xiaobaiyun.me}}
-  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 9, server: 158.101.159.79, port: 39000, type: vmess, uuid: 9be5a864-14ad-4752-d6fc-17efdb9d7a86, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /cs, ws-headers: {Host: 158.101.159.79}}
-  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 10, server: usbackup8.mars6666.com, port: 443, type: vmess, uuid: fe93a062-d13f-3958-9ebc-0c06cd32dfb0, alterId: 3, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: usbackup8.mars6666.com}}
-  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a_______2, server: 84.17.35.118, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a_______41, server: 148.72.169.213, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 198.147.22.87:40093, server: 198.147.22.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 小莉与科技 11, server: 137.59.52.107, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 84.17.35.118:45329, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 小莉与科技 12, server: 137.59.52.107, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇩🇪 德国, server: 78.47.91.90, port: 36352, type: ss, cipher: aes-256-gcm, password: JUZTvwqCdJYW}
-  - {name: 🇺🇲 美国 6, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇩🇪 德国 2, server: 78.47.219.86, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
-  - {name: 🇳🇱 荷兰 2, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 7, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇬🇧 英国 2, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇲 美国 8, server: 212.102.44.83, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇲 美国 9, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 🇺🇲 美国 10, server: 212.102.44.83, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇨🇦 加拿大, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 11, server: 212.102.44.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 12, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇲 美国 13, server: 84.17.35.118, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 小莉与科技 13, server: 80.85.156.31, port: 40331, type: vmess, uuid: f3dc16e3-715c-4839-abd3-8e0c6df46064, alterId: 0, cipher: auto, tls: false}
-  - {name: 小莉与科技 14, server: 5.183.179.94, port: 29082, type: ss, cipher: chacha20-ietf-poly1305, password: xiaodongyoutuber}
-  - {name: 小莉与科技 15, server: 3.66.221.175, port: 31186, type: vmess, uuid: 3ebad99a-4470-4998-94be-43046d0b4986, alterId: 64, cipher: auto, tls: false}
-  - {name: 小莉与科技 16, server: 193.9.114.34, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 小莉与科技 17, server: 51.195.62.220, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇭🇰 香港 小莉与科技, server: 120.232.41.6, port: 204, type: ss, cipher: aes-128-gcm, password: 7oosgzlD}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 5, server: 118.107.244.111, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 6, server: 118.107.244.113, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 7, server: 158.101.159.79, port: 39000, type: vmess, uuid: 9be5a864-14ad-4752-d6fc-17efdb9d7a86, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /cs, ws-headers: {Host: 158.101.159.79}}
+  - {name: 🇸🇬 节点更新https://bit.ly/3uWuS7a 8, server: usbackup8.mars6666.com, port: 443, type: vmess, uuid: fe93a062-d13f-3958-9ebc-0c06cd32dfb0, alterId: 3, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: usbackup8.mars6666.com}}
+  - {name: 小莉与科技 4, server: 80.85.156.31, port: 40331, type: vmess, uuid: f3dc16e3-715c-4839-abd3-8e0c6df46064, alterId: 0, cipher: auto, tls: false}
+  - {name: 小莉与科技 5, server: 3.66.221.175, port: 31186, type: vmess, uuid: 3ebad99a-4470-4998-94be-43046d0b4986, alterId: 64, cipher: auto, tls: false}
   - {name: 🇺🇲 美国 小莉与科技, server: 23.82.11.49, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
   - {name: 欧洲 小莉与科技, server: 91.90.123.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 小莉与科技 18, server: 91.90.123.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 小莉与科技 6, server: 91.90.123.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 🇺🇲 美国 小莉与科技 2, server: 207.244.67.149, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 小莉与科技 19, server: 91.90.123.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇺🇲 美国 小莉与科技 3, server: 104.200.131.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 小莉与科技 4, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 小莉与科技 5, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇲 美国 小莉与科技 6, server: 198.147.22.87, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 小莉与科技 20, server: 91.90.123.115, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇺🇲 美国 小莉与科技 7, server: 198.147.22.87, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 小莉与科技 21, server: 91.90.123.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 小莉与科技 22, server: 195.47.194.42, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 小莉与科技 8, server: 198.147.22.87, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇲 美国 小莉与科技 9, server: 198.147.22.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 小莉与科技 23, server: 91.90.123.125, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇲 美国 小莉与科技 10, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
-  - {name: 🇺🇲 美国 小莉与科技 11, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
-  - {name: 小莉与科技 24, server: 91.90.123.115, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: 小莉与科技 25, server: 15.184.91.216, port: 55435, type: vmess, uuid: 8d81b746-53ce-45c5-b8a4-dec28a0c5a80, alterId: 64, cipher: auto, tls: false}
-  - {name: 小莉与科技 26, server: 152.67.225.114, port: 23456, type: vmess, uuid: 86e46276-7b5a-445e-8a66-1f3ec592fc8f, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /cs, ws-headers: {Host: 152.67.225.114}}
-  - {name: 小莉与科技 27, server: 5.183.179.94, port: 47148, type: vmess, uuid: 730cb94d-012a-4bfc-aa2a-1573f63e5905, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇨🇳 cn.linn.ink:20020, server: cn.linn.ink, port: 20020, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: 18.183.171.183:20040, server: 18.183.171.183, port: 20040, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: 54.178.102.176:20040, server: 54.178.102.176, port: 20040, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: 175.41.204.200:20040, server: 175.41.204.200, port: 20040, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: 3.112.193.158:20040, server: 3.112.193.158, port: 20040, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: ss.ca.sshmax.net:1443, server: ss.ca.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: r4TeEt5bK0UD}
-  - {name: ss.linn.ink:20040, server: ss.linn.ink, port: 20040, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: ss5.ssrsub.one:5443, server: ss5.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 小莉与科技 7, server: 91.90.123.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 小莉与科技 8, server: 91.90.123.115, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇲 美国 小莉与科技 3, server: 198.147.22.87, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 小莉与科技 9, server: 91.90.123.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 小莉与科技 10, server: 195.47.194.42, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 小莉与科技 11, server: 91.90.123.125, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 小莉与科技 12, server: 91.90.123.115, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 小莉与科技 13, server: 15.184.91.216, port: 55435, type: vmess, uuid: 8d81b746-53ce-45c5-b8a4-dec28a0c5a80, alterId: 64, cipher: auto, tls: false}
+  - {name: 小莉与科技 14, server: 152.67.225.114, port: 23456, type: vmess, uuid: 86e46276-7b5a-445e-8a66-1f3ec592fc8f, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /cs, ws-headers: {Host: 152.67.225.114}}
+  - {name: 小莉与科技 15, server: 5.183.179.94, port: 47148, type: vmess, uuid: 730cb94d-012a-4bfc-aa2a-1573f63e5905, alterId: 0, cipher: auto, tls: false}
   - {name: 193.9.114.34:803, server: 193.9.114.34, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: ss.id.sshmax.net:57478, server: ss.id.sshmax.net, port: 57478, type: ss, cipher: chacha20-ietf-poly1305, password: ku382YXK8cLE}
-  - {name: 18.162.168.190:20040, server: 18.162.168.190, port: 20040, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
   - {name: 185.108.106.146:33992, server: 185.108.106.146, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 5.183.179.94:29082, server: 5.183.179.94, port: 29082, type: ss, cipher: chacha20-ietf-poly1305, password: xiaodongyoutuber}
-  - {name: 185.38.150.124:31572, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 89.46.223.239:39772, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 176.227.241.24:33992, server: 176.227.241.24, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 51.195.62.220:811, server: 51.195.62.220, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 45.134.224.15:46642, server: 45.134.224.15, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇲 美国 6, server: 4733.ddns.inli.cloud, port: 30504, type: vmess, uuid: 9afbb703-c486-39b1-9cd6-abdd430973e9, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 4733.ddns.inli.cloud}}
+  - {name: 🇨🇦 加拿大  小莉与科技, server: ss1.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 小莉与科技 16, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 小莉与科技 17, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+  - {name: 🇩🇪 德国 小莉与科技, server: 185.44.76.188, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 18, server: 91.90.123.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇮🇳 印度 小莉与科技, server: 137.59.52.107, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇮🇳 印度 小莉与科技 2, server: 137.59.52.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 19, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 20, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 小莉与科技 21, server: 91.90.123.115, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇲 US 小莉与科技, server: 84.17.35.118, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 小莉与科技 22, server: 91.90.123.115, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 小莉与科技 23, server: 91.90.123.115, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 小莉与科技 24, server: 91.90.123.115, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 小莉与科技 25, server: 91.90.123.115, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 小莉与科技 26, server: 45.134.224.15, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 小莉与科技 27, server: 5.183.101.200, port: 35374, type: vmess, uuid: 62836733-0014-4014-e0e3-908eea2f3063, alterId: 64, cipher: auto, tls: false}
+  - {name: 小莉与科技 28, server: 35.178.68.152, port: 47611, type: vmess, uuid: 97a4d167-b361-48b8-b004-8bc45669e334, alterId: 0, cipher: auto, tls: false}
+  - {name: 小莉与科技 29, server: 52.255.146.242, port: 28380, type: vmess, uuid: a232e331-bff8-48d4-f9a6-2436cf41aa26, alterId: 64, cipher: auto, tls: false}
+  - {name: 小莉与科技 30, server: 51.195.62.220, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 小莉与科技 31, server: 51.195.62.220, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 小莉与科技 32, server: 51.89.99.59, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 小莉与科技 33, server: ss.ca.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: r4TeEt5bK0UD}
+  - {name: 小莉与科技 34, server: ss3.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 小莉与科技 35, server: ss4.ssrsub.one, port: 5443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+  - {name: 小莉与科技 36, server: 195.47.194.42, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 小莉与科技 37, server: 82.102.26.117, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 小莉与科技 38, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 39, server: 185.38.150.124, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 40, server: 139.28.176.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 41, server: 82.102.26.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 42, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 小莉与科技 43, server: 82.102.26.117, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 小莉与科技 44, server: 82.102.26.117, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 小莉与科技 45, server: 82.102.26.117, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+  - {name: 小莉与科技 46, server: 82.102.26.117, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 小莉与科技 47, server: 82.102.26.117, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 小莉与科技 48, server: 78.47.219.86, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
+  - {name: 小莉与科技 49, server: 78.47.94.207, port: 35139, type: ss, cipher: aes-256-gcm, password: vcFINAQlgqZZ}
+  - {name: 小莉与科技 50, server: 195.47.194.42, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 小莉与科技 51, server: 212.102.44.83, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 小莉与科技 52, server: 82.102.26.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 小莉与科技 53, server: 82.102.26.117, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 小莉与科技 54, server: 104.200.131.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 55, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 56, server: 208.78.41.198, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 57, server: 212.102.44.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 小莉与科技 58, server: 143.244.60.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 小莉与科技 59, server: 89.46.223.239, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 小莉与科技 60, server: 212.102.44.83, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 小莉与科技 61, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 小莉与科技 62, server: 82.102.26.117, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 小莉与科技 63, server: 82.102.26.117, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 小莉与科技 64, server: 82.102.26.117, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 小莉与科技 65, server: 82.102.26.117, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 小莉与科技 66, server: 195.47.194.42, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 小莉与科技 67, server: 84.17.35.118, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 小莉与科技 68, server: 82.102.26.117, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 小莉与科技 69, server: 212.102.44.83, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 小莉与科技 70, server: 78.47.91.90, port: 36352, type: ss, cipher: aes-256-gcm, password: JUZTvwqCdJYW}
+  - {name: 小莉与科技 71, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 小莉与科技 72, server: 82.102.26.117, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 小莉与科技 73, server: 82.102.26.117, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 小莉与科技 74, server: 82.102.26.117, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 小莉与科技 75, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 小莉与科技 76, server: 82.102.26.117, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 小莉与科技 77, server: 195.47.194.42, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 小莉与科技 78, server: 82.102.26.117, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 小莉与科技 79, server: 5.183.179.94, port: 47148, type: vmess, uuid: 730cb94d-012a-4bfc-aa2a-1573f63e5905, alterId: 0, cipher: auto, tls: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -173,13 +187,6 @@ proxy-groups:
       - 小莉与科技
       - 小莉与科技 2
       - 小莉与科技 3
-      - 小莉与科技 4
-      - 小莉与科技 5
-      - 小莉与科技 6
-      - 小莉与科技 7
-      - 小莉与科技 8
-      - 小莉与科技 9
-      - 小莉与科技 10
       - 🇸🇬 kr2-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a
       - 🇸🇬 kr2-1电信@1Gbps 节点更新https://bit.ly/3uWuS7a
       - 🇸🇬 kr2-6@1Gbps节点更新https://bit.ly/3uWuS7a
@@ -234,73 +241,94 @@ proxy-groups:
       - 🇸🇬 节点更新https://bit.ly/3uWuS7a 6
       - 🇸🇬 节点更新https://bit.ly/3uWuS7a 7
       - 🇸🇬 节点更新https://bit.ly/3uWuS7a 8
-      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 9
-      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 10
-      - 🇸🇬 节点更新https://bit.ly/3uWuS7a_______2
-      - 🇸🇬 节点更新https://bit.ly/3uWuS7a_______41
-      - 198.147.22.87:40093
+      - 小莉与科技 4
+      - 小莉与科技 5
+      - 🇺🇲 美国 小莉与科技
+      - 欧洲 小莉与科技
+      - 小莉与科技 6
+      - 🇺🇲 美国 小莉与科技 2
+      - 小莉与科技 7
+      - 小莉与科技 8
+      - 🇺🇲 美国 小莉与科技 3
+      - 小莉与科技 9
+      - 小莉与科技 10
       - 小莉与科技 11
-      - 84.17.35.118:45329
       - 小莉与科技 12
-      - 🇩🇪 德国
-      - 🇺🇲 美国 6
-      - 🇩🇪 德国 2
-      - 🇳🇱 荷兰 2
-      - 🇺🇲 美国 7
-      - 🇬🇧 英国 2
-      - 🇺🇲 美国 8
-      - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
-      - 🇨🇦 加拿大
-      - 🇺🇲 美国 11
-      - 🇺🇲 美国 12
-      - 🇺🇲 美国 13
       - 小莉与科技 13
       - 小莉与科技 14
       - 小莉与科技 15
+      - 193.9.114.34:803
+      - 185.108.106.146:33992
+      - 🇺🇲 美国 6
+      - 🇨🇦 加拿大  小莉与科技
       - 小莉与科技 16
       - 小莉与科技 17
-      - 🇭🇰 香港 小莉与科技
-      - 🇺🇲 美国 小莉与科技
-      - 欧洲 小莉与科技
+      - 🇩🇪 德国 小莉与科技
       - 小莉与科技 18
-      - 🇺🇲 美国 小莉与科技 2
+      - 🇮🇳 印度 小莉与科技
+      - 🇮🇳 印度 小莉与科技 2
       - 小莉与科技 19
-      - 🇺🇲 美国 小莉与科技 3
-      - 🇺🇲 美国 小莉与科技 4
-      - 🇺🇲 美国 小莉与科技 5
-      - 🇺🇲 美国 小莉与科技 6
       - 小莉与科技 20
-      - 🇺🇲 美国 小莉与科技 7
       - 小莉与科技 21
+      - 🇺🇲 US 小莉与科技
       - 小莉与科技 22
-      - 🇺🇲 美国 小莉与科技 8
-      - 🇺🇲 美国 小莉与科技 9
       - 小莉与科技 23
-      - 🇺🇲 美国 小莉与科技 10
-      - 🇺🇲 美国 小莉与科技 11
       - 小莉与科技 24
       - 小莉与科技 25
       - 小莉与科技 26
       - 小莉与科技 27
-      - 🇨🇳 cn.linn.ink:20020
-      - 18.183.171.183:20040
-      - 54.178.102.176:20040
-      - 175.41.204.200:20040
-      - 3.112.193.158:20040
-      - ss.ca.sshmax.net:1443
-      - ss.linn.ink:20040
-      - ss5.ssrsub.one:5443
-      - 193.9.114.34:803
-      - ss.id.sshmax.net:57478
-      - 18.162.168.190:20040
-      - 185.108.106.146:33992
-      - 5.183.179.94:29082
-      - 185.38.150.124:31572
-      - 89.46.223.239:39772
-      - 176.227.241.24:33992
-      - 51.195.62.220:811
-      - 45.134.224.15:46642
+      - 小莉与科技 28
+      - 小莉与科技 29
+      - 小莉与科技 30
+      - 小莉与科技 31
+      - 小莉与科技 32
+      - 小莉与科技 33
+      - 小莉与科技 34
+      - 小莉与科技 35
+      - 小莉与科技 36
+      - 小莉与科技 37
+      - 小莉与科技 38
+      - 小莉与科技 39
+      - 小莉与科技 40
+      - 小莉与科技 41
+      - 小莉与科技 42
+      - 小莉与科技 43
+      - 小莉与科技 44
+      - 小莉与科技 45
+      - 小莉与科技 46
+      - 小莉与科技 47
+      - 小莉与科技 48
+      - 小莉与科技 49
+      - 小莉与科技 50
+      - 小莉与科技 51
+      - 小莉与科技 52
+      - 小莉与科技 53
+      - 小莉与科技 54
+      - 小莉与科技 55
+      - 小莉与科技 56
+      - 小莉与科技 57
+      - 小莉与科技 58
+      - 小莉与科技 59
+      - 小莉与科技 60
+      - 小莉与科技 61
+      - 小莉与科技 62
+      - 小莉与科技 63
+      - 小莉与科技 64
+      - 小莉与科技 65
+      - 小莉与科技 66
+      - 小莉与科技 67
+      - 小莉与科技 68
+      - 小莉与科技 69
+      - 小莉与科技 70
+      - 小莉与科技 71
+      - 小莉与科技 72
+      - 小莉与科技 73
+      - 小莉与科技 74
+      - 小莉与科技 75
+      - 小莉与科技 76
+      - 小莉与科技 77
+      - 小莉与科技 78
+      - 小莉与科技 79
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -319,13 +347,6 @@ proxy-groups:
       - 小莉与科技
       - 小莉与科技 2
       - 小莉与科技 3
-      - 小莉与科技 4
-      - 小莉与科技 5
-      - 小莉与科技 6
-      - 小莉与科技 7
-      - 小莉与科技 8
-      - 小莉与科技 9
-      - 小莉与科技 10
       - 🇸🇬 kr2-22移动@1Gbps 节点更新https://bit.ly/3uWuS7a
       - 🇸🇬 kr2-1电信@1Gbps 节点更新https://bit.ly/3uWuS7a
       - 🇸🇬 kr2-6@1Gbps节点更新https://bit.ly/3uWuS7a
@@ -380,73 +401,94 @@ proxy-groups:
       - 🇸🇬 节点更新https://bit.ly/3uWuS7a 6
       - 🇸🇬 节点更新https://bit.ly/3uWuS7a 7
       - 🇸🇬 节点更新https://bit.ly/3uWuS7a 8
-      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 9
-      - 🇸🇬 节点更新https://bit.ly/3uWuS7a 10
-      - 🇸🇬 节点更新https://bit.ly/3uWuS7a_______2
-      - 🇸🇬 节点更新https://bit.ly/3uWuS7a_______41
-      - 198.147.22.87:40093
+      - 小莉与科技 4
+      - 小莉与科技 5
+      - 🇺🇲 美国 小莉与科技
+      - 欧洲 小莉与科技
+      - 小莉与科技 6
+      - 🇺🇲 美国 小莉与科技 2
+      - 小莉与科技 7
+      - 小莉与科技 8
+      - 🇺🇲 美国 小莉与科技 3
+      - 小莉与科技 9
+      - 小莉与科技 10
       - 小莉与科技 11
-      - 84.17.35.118:45329
       - 小莉与科技 12
-      - 🇩🇪 德国
-      - 🇺🇲 美国 6
-      - 🇩🇪 德国 2
-      - 🇳🇱 荷兰 2
-      - 🇺🇲 美国 7
-      - 🇬🇧 英国 2
-      - 🇺🇲 美国 8
-      - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
-      - 🇨🇦 加拿大
-      - 🇺🇲 美国 11
-      - 🇺🇲 美国 12
-      - 🇺🇲 美国 13
       - 小莉与科技 13
       - 小莉与科技 14
       - 小莉与科技 15
+      - 193.9.114.34:803
+      - 185.108.106.146:33992
+      - 🇺🇲 美国 6
+      - 🇨🇦 加拿大  小莉与科技
       - 小莉与科技 16
       - 小莉与科技 17
-      - 🇭🇰 香港 小莉与科技
-      - 🇺🇲 美国 小莉与科技
-      - 欧洲 小莉与科技
+      - 🇩🇪 德国 小莉与科技
       - 小莉与科技 18
-      - 🇺🇲 美国 小莉与科技 2
+      - 🇮🇳 印度 小莉与科技
+      - 🇮🇳 印度 小莉与科技 2
       - 小莉与科技 19
-      - 🇺🇲 美国 小莉与科技 3
-      - 🇺🇲 美国 小莉与科技 4
-      - 🇺🇲 美国 小莉与科技 5
-      - 🇺🇲 美国 小莉与科技 6
       - 小莉与科技 20
-      - 🇺🇲 美国 小莉与科技 7
       - 小莉与科技 21
+      - 🇺🇲 US 小莉与科技
       - 小莉与科技 22
-      - 🇺🇲 美国 小莉与科技 8
-      - 🇺🇲 美国 小莉与科技 9
       - 小莉与科技 23
-      - 🇺🇲 美国 小莉与科技 10
-      - 🇺🇲 美国 小莉与科技 11
       - 小莉与科技 24
       - 小莉与科技 25
       - 小莉与科技 26
       - 小莉与科技 27
-      - 🇨🇳 cn.linn.ink:20020
-      - 18.183.171.183:20040
-      - 54.178.102.176:20040
-      - 175.41.204.200:20040
-      - 3.112.193.158:20040
-      - ss.ca.sshmax.net:1443
-      - ss.linn.ink:20040
-      - ss5.ssrsub.one:5443
-      - 193.9.114.34:803
-      - ss.id.sshmax.net:57478
-      - 18.162.168.190:20040
-      - 185.108.106.146:33992
-      - 5.183.179.94:29082
-      - 185.38.150.124:31572
-      - 89.46.223.239:39772
-      - 176.227.241.24:33992
-      - 51.195.62.220:811
-      - 45.134.224.15:46642
+      - 小莉与科技 28
+      - 小莉与科技 29
+      - 小莉与科技 30
+      - 小莉与科技 31
+      - 小莉与科技 32
+      - 小莉与科技 33
+      - 小莉与科技 34
+      - 小莉与科技 35
+      - 小莉与科技 36
+      - 小莉与科技 37
+      - 小莉与科技 38
+      - 小莉与科技 39
+      - 小莉与科技 40
+      - 小莉与科技 41
+      - 小莉与科技 42
+      - 小莉与科技 43
+      - 小莉与科技 44
+      - 小莉与科技 45
+      - 小莉与科技 46
+      - 小莉与科技 47
+      - 小莉与科技 48
+      - 小莉与科技 49
+      - 小莉与科技 50
+      - 小莉与科技 51
+      - 小莉与科技 52
+      - 小莉与科技 53
+      - 小莉与科技 54
+      - 小莉与科技 55
+      - 小莉与科技 56
+      - 小莉与科技 57
+      - 小莉与科技 58
+      - 小莉与科技 59
+      - 小莉与科技 60
+      - 小莉与科技 61
+      - 小莉与科技 62
+      - 小莉与科技 63
+      - 小莉与科技 64
+      - 小莉与科技 65
+      - 小莉与科技 66
+      - 小莉与科技 67
+      - 小莉与科技 68
+      - 小莉与科技 69
+      - 小莉与科技 70
+      - 小莉与科技 71
+      - 小莉与科技 72
+      - 小莉与科技 73
+      - 小莉与科技 74
+      - 小莉与科技 75
+      - 小莉与科技 76
+      - 小莉与科技 77
+      - 小莉与科技 78
+      - 小莉与科技 79
   - name: 📲 电报消息
     type: select
     proxies:
@@ -625,7 +667,6 @@ proxy-groups:
     proxies:
       - 🇭🇰 kr2-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
       - 🇭🇰 韩国-30满足2000 Mbps带 宽 需 求峰值 速 度  307200 kB/s  数 据中心HKG
-      - 🇭🇰 香港 小莉与科技
   - name: 🇯🇵 日本节点
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -644,25 +685,11 @@ proxy-groups:
       - 🇺🇲 美国 3
       - 🇺🇲 美国 4
       - 🇺🇲 美国 5
-      - 🇺🇲 美国 6
-      - 🇺🇲 美国 7
-      - 🇺🇲 美国 8
-      - 🇺🇲 美国 9
-      - 🇺🇲 美国 10
-      - 🇺🇲 美国 11
-      - 🇺🇲 美国 12
-      - 🇺🇲 美国 13
       - 🇺🇲 美国 小莉与科技
       - 🇺🇲 美国 小莉与科技 2
       - 🇺🇲 美国 小莉与科技 3
-      - 🇺🇲 美国 小莉与科技 4
-      - 🇺🇲 美国 小莉与科技 5
-      - 🇺🇲 美国 小莉与科技 6
-      - 🇺🇲 美国 小莉与科技 7
-      - 🇺🇲 美国 小莉与科技 8
-      - 🇺🇲 美国 小莉与科技 9
-      - 🇺🇲 美国 小莉与科技 10
-      - 🇺🇲 美国 小莉与科技 11
+      - 🇺🇲 美国 6
+      - 🇺🇲 US 小莉与科技
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.gstatic.com/generate_204
