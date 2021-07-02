@@ -9,7 +9,6 @@ proxies:
   - {name: Pool__1393, server: 45.87.213.21, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
   - {name: Pool__1318 |42.92Mb, server: 185.217.71.213, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇭🇰 馃嚟馃嚢HK_1191, server: www.zx07.top, port: 443, type: trojan, password: L1qNeGrY58ApwrRA, sni: www.zx07.top}
-  - {name: 🇺🇲 Pool_馃嚭馃嚫US_133, server: 143.244.60.164, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: Pool_馃嚨馃嚤PL_3221, server: 5.253.206.227, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
   - {name: 🇹🇷 Pool_馃嚬馃嚪TR_3996, server: 84.252.95.149, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: Pool__752 | 7.71Mb, server: 207.244.67.149, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
@@ -45,12 +44,21 @@ proxies:
   - {name: 🇺🇲 Pool_馃嚭馃嚫US_4111, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: Pool_馃嚜馃嚜EE_1066, server: 185.174.159.69, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_709, server: a83679f.hc.gladns.com, port: 3306, type: vmess, uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /t, ws-headers: {Host: a83679f.hc.gladns.com}}
-  - {name: 198.8.92.84:40220, server: 198.8.92.84, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
-  - {name: 66.115.175.37:50168, server: 66.115.175.37, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 23.82.11.49:50168, server: 23.82.11.49, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 198.147.22.87:40093, server: 198.147.22.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 198.8.92.84:38742, server: 198.8.92.84, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇨🇳 馃嚬馃嚰 TW_38 |13.41Mb, server: 211.23.132.124, port: 9233, type: vmess, uuid: be58f4e4-894a-47ee-8836-cf75e74fa9c9, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 211.23.132.124}}
+  - {name: 198.147.22.87:40093, server: 198.147.22.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 198.147.22.87:35200, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
+  - {name: 66.115.175.37:50168, server: 66.115.175.37, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 198.8.92.84:40220, server: 198.8.92.84, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
+  - {name: 185.44.76.188:31572, server: 185.44.76.188, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 137.59.52.107:33992, server: 137.59.52.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 143.244.60.164:50168, server: 143.244.60.164, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 23.82.11.49:50168, server: 23.82.11.49, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 207.244.67.149:33992, server: 207.244.67.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 207.244.67.149:39772, server: 207.244.67.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 🇭🇰 Relay_馃嚚馃嚦CN-馃嚟馃嚢HK_30, server: 54.223.185.171, port: 8001, type: vmess, uuid: 4a0825d3-0f32-4fec-a7fd-ba851e36e091, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 🇨🇳 馃嚚馃嚦 CN_13, server: 54.223.185.171, port: 8003, type: vmess, uuid: e854d8f1-f0f7-40fe-a77d-345cf7a78e05, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.223.185.171}}
+  - {name: 🇭🇰 Relay_馃嚚馃嚦CN-馃嚟馃嚢HK_26, server: 54.223.185.171, port: 8001, type: vmess, uuid: bb511347-6ed5-475c-9ffe-ac7268fdf351, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: baidu.com}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -71,7 +79,6 @@ proxy-groups:
       - Pool__1393
       - Pool__1318 |42.92Mb
       - 🇭🇰 馃嚟馃嚢HK_1191
-      - 🇺🇲 Pool_馃嚭馃嚫US_133
       - Pool_馃嚨馃嚤PL_3221
       - 🇹🇷 Pool_馃嚬馃嚪TR_3996
       - Pool__752 | 7.71Mb
@@ -107,12 +114,21 @@ proxy-groups:
       - 🇺🇲 Pool_馃嚭馃嚫US_4111
       - Pool_馃嚜馃嚜EE_1066
       - 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_709
-      - 198.8.92.84:40220
-      - 66.115.175.37:50168
-      - 23.82.11.49:50168
-      - 198.147.22.87:40093
       - 198.8.92.84:38742
+      - 🇨🇳 馃嚬馃嚰 TW_38 |13.41Mb
+      - 198.147.22.87:40093
       - 198.147.22.87:35200
+      - 66.115.175.37:50168
+      - 198.8.92.84:40220
+      - 185.44.76.188:31572
+      - 137.59.52.107:33992
+      - 143.244.60.164:50168
+      - 23.82.11.49:50168
+      - 207.244.67.149:33992
+      - 207.244.67.149:39772
+      - 🇭🇰 Relay_馃嚚馃嚦CN-馃嚟馃嚢HK_30
+      - 🇨🇳 馃嚚馃嚦 CN_13
+      - 🇭🇰 Relay_馃嚚馃嚦CN-馃嚟馃嚢HK_26
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -123,7 +139,6 @@ proxy-groups:
       - Pool__1393
       - Pool__1318 |42.92Mb
       - 🇭🇰 馃嚟馃嚢HK_1191
-      - 🇺🇲 Pool_馃嚭馃嚫US_133
       - Pool_馃嚨馃嚤PL_3221
       - 🇹🇷 Pool_馃嚬馃嚪TR_3996
       - Pool__752 | 7.71Mb
@@ -159,12 +174,21 @@ proxy-groups:
       - 🇺🇲 Pool_馃嚭馃嚫US_4111
       - Pool_馃嚜馃嚜EE_1066
       - 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_709
-      - 198.8.92.84:40220
-      - 66.115.175.37:50168
-      - 23.82.11.49:50168
-      - 198.147.22.87:40093
       - 198.8.92.84:38742
+      - 🇨🇳 馃嚬馃嚰 TW_38 |13.41Mb
+      - 198.147.22.87:40093
       - 198.147.22.87:35200
+      - 66.115.175.37:50168
+      - 198.8.92.84:40220
+      - 185.44.76.188:31572
+      - 137.59.52.107:33992
+      - 143.244.60.164:50168
+      - 23.82.11.49:50168
+      - 207.244.67.149:33992
+      - 207.244.67.149:39772
+      - 🇭🇰 Relay_馃嚚馃嚦CN-馃嚟馃嚢HK_30
+      - 🇨🇳 馃嚚馃嚦 CN_13
+      - 🇭🇰 Relay_馃嚚馃嚦CN-馃嚟馃嚢HK_26
   - name: 📲 电报消息
     type: select
     proxies:
@@ -342,6 +366,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇭🇰 馃嚟馃嚢HK_1191
+      - 🇭🇰 Relay_馃嚚馃嚦CN-馃嚟馃嚢HK_30
+      - 🇭🇰 Relay_馃嚚馃嚦CN-馃嚟馃嚢HK_26
   - name: 🇯🇵 日本节点
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -355,7 +381,6 @@ proxy-groups:
     interval: 300
     tolerance: 150
     proxies:
-      - 🇺🇲 Pool_馃嚭馃嚫US_133
       - 🇺🇲 Pool_馃嚭馃嚫US_4931 |11.35Mb
       - 🇺🇲 Pool_馃嚭馃嚫US_4868
       - 🇺🇲 Pool_馃嚭馃嚫US_4928
@@ -370,6 +395,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇨🇳 Relay_🇨🇳CN-🇹🇼TW_709
+      - 🇨🇳 馃嚬馃嚰 TW_38 |13.41Mb
   - name: 🇸🇬 狮城节点
     type: url-test
     url: http://www.gstatic.com/generate_204
